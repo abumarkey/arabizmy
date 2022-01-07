@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: o autorze
 permalink: /about/
 ---
 
-Some information about you!
+Nazywam się Marek Fronc i studiuję Bliski Wschód i Afrykę Północną na UJ. Moja praca licencjacka skupia się na nacjonalizmach w państwach arabskich Zatoki Perskiej. Przed rozpoczęciem studiów mieszkałem cztery lata w Bahrajnie, który regularnie odwiedzam. 
 
-### More Information
+Moje główne zainteresowania to współczesna polityka, kultura i historia Bliskiego Wschodu. Dla przykładu, w ramach Festiwalu Studiów Azjatyckich 2021 stworzyłem materiał nt. połowu pereł w Zatoce Perskiej ([link](https://www.youtube.com/watch?v=ST6vbuUlQ8E)). 
 
-A place to include any other types of information that you'd like to include about yourself.
+### kontakt
 
-### Contact me
+[marek.fronc@pm.me](mailto:marek.fronc@pm.me)
 
-[email@domain.com](mailto:email@domain.com)
+<img src="https://i.postimg.cc/0N2VRbhh/D146074-E-0-C75-434-C-8-B13-F627-C0382682.png" alt="self-portrait" style="max-width:100%;height:auto;" />
