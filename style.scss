@@ -18,9 +18,11 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+      background: #FAFAFA;
+      font-family: 'Nunito', sans-serif;
+      font-size: 16px;
+      color: #1C1C1C;
+      font-weight: 400;
 }
 
 .container {
@@ -31,10 +33,10 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
-  font-weight: bold;
-
+  font-family: 'Nunito', sans-serif;
+  color: #1C1C1C;
+  font-weight: 600;
+	
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
@@ -69,11 +71,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #04B486;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #04B404;
   }
 }
 
@@ -117,17 +119,17 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: #04B486;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $lightGray;
+  background: #04B486;
 }
 ::selection {
   color: $black;
-  background: $lightGray;
+  background: #04B486;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -194,8 +196,8 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 600;
   font-size: 28px;
   letter-spacing: 1px;
 }
@@ -213,7 +215,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: 'Nunito', sans-serif;
   font-size: 18px;
 
   @include mobile {
@@ -287,3 +289,4 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,600;1,400;1,600&family=Scheherazade+New:wght@400;700&display=swap');
