@@ -14,4 +14,4 @@ Poza czytaniem o nacjonalistach oraz nauką arabskiego (i niemieckiego), [robię
 
 [marek.fronc@pm.me](mailto:marek.fronc@pm.me) - [twitter](https://twitter.com/arabizmy)
 
-<img src="https://i.postimg.cc/0N2VRbhh/D146074-E-0-C75-434-C-8-B13-F627-C0382682.png" alt="self-portrait" style="max-width:100%;height:auto;" />
+<img src="https://i.postimg.cc/0N2VRbhh/D146074-E-0-C75-434-C-8-B13-F627-C0382682.png" alt="self-portrait" style="max-width:100%;height:auto;" width="200" />
