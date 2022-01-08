@@ -11,7 +11,7 @@ Najistotniejsza różnica to prosty i oczywisty fakt, że w arabskiej części Z
 
 I tak świat się kręcił do momentu, gdy baryłka ropy naprawdę zaczęła tanieć, gospodarka zwolniła, a wpływ internetu pozwolił na szerszą skalę sprzeciwu wobec łamania praw człowieka. Arabskie monarchie zrozumiały, że potrzebny jest nowy kontrakt społeczny, by mogły utrzymać się przy władzy. W tym samym czasie zaczęła zaogniać się geopolityczna rywalizacja z Iranem (a w tym konflikt w Jemenie, czyli regionalna wersja wojny w Wietnamie), postanowiono więc budować nowe społeczeństwo w ramach wojska. 
 
-Nacjonalizm nie jest kompletnie nową ideą w Zatoce Perskiej - ferwor nacjonalizmu arabskiego z Gemalem Abdel Nasserem na czele dotarł i tutaj. Lokalnym emirom (będącym jeszcze wtedy, w dużej mierze, pod protektoratem brytyjskim) udało się go jednak stłamsić, a patriotyzm powiązać z lojalnością wobec rodziny królewskiej dzielącej się swym bogactwem z wiernymi. 
+Nacjonalizm nie jest kompletnie nową ideą w Zatoce Perskiej - ferwor nacjonalizmu arabskiego z Gemalem Abdel Nasserem na czele dotarł i tutaj. Lokalnym emirom (będącym jeszcze wtedy, w dużej mierze, pod protektoratem brytyjskim) udało się go jednak stłamsić, a patriotyzm powiązać z lojalnością wobec rodziny królewskiej dzielącej się swym bogactwem z poddanymi. 
 
 Dziś tworzony nacjonalizm - znów jako fenomen odgórny - to tworzenie poczucia więzi z państwem przez wojsko, które ma za zadanie nauczyć aktywnego uczestnictwa w zbiorowości narodowej. Chodzi o dość prosty mechanizm - bronię _swojego_ kraju, któremu _służę_. W niektórych przypadkach, jak w Katarze, wojsko oferuje kursy edukacyjne dotyczące m. in. historii państwa i regionu, co potęguje siłę tego dyskursywnego nacjonalizmu. 
 
