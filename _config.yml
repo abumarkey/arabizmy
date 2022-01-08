@@ -19,9 +19,8 @@ avatar: https://i.imgur.com/ROJIet3.png
 footer-links:
   email: marek.fronc@pm.me
   facebook: arabizmy
-  github: barryclark/jekyll-now
   instagram: abumarkey
-  rss: # just type anything here for a working RSS icon
+  rss: # rss
   twitter: arabizmy
   youtube: # channel/<your_long_string> or user/<user-name>
 
