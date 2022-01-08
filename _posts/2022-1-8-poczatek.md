@@ -22,3 +22,5 @@ Dziś tworzony nacjonalizm - znów jako fenomen odgórny - to tworzenie poczucia
 Podstawą narodowości jest solidarność społeczna, tzn. integracja między członkami społeczności oraz utożsamianie się jednostek z tą społecznością. To jest jednak niezbędne minimum - o rodzinie również można przecież powiedzieć, że jest zintegrowana. Tu właśnie istotny jest dyskursywny nacjonalizm - to o czym mówił Benedict Anderson, [pisząc](https://www.versobooks.com/books/2259-imagined-communities) o "wspólnotach wyobrażonych".
 
 Wszystkie społeczności większe niż mała wieś (pozwalające na kontakt twarzą w twarz) są wyobrażone. Różnią się więc tym _jak_ są wyobrażane, a nie _jak bardzo_. Społeczności można podzielić na wiele rodzajów, ale Craig Calhoun [wydzielił](https://www.upress.umn.edu/book-division/books/nationalism) 10 cech retoryki, które można zauważyć przy okazji narodów, m. in. granice terytorium i populacji, nierozłączność, suwerenność i bezpośrednie członkostwo (każdy staje się natychmiastowo równą częścią społeczności). 
+
+
