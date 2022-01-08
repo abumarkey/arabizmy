@@ -23,4 +23,8 @@ Podstawą narodowości jest solidarność społeczna, tzn. integracja między cz
 
 Wszystkie społeczności większe niż mała wieś (pozwalające na kontakt twarzą w twarz) są wyobrażone. Różnią się więc tym _jak_ są wyobrażane, a nie _jak bardzo_. Społeczności można podzielić na wiele rodzajów, ale Craig Calhoun [wydzielił](https://www.upress.umn.edu/book-division/books/nationalism) 10 cech retoryki, które można zauważyć przy okazji narodów, m. in. granice terytorium i populacji, nierozłączność, suwerenność i bezpośrednie członkostwo (każdy staje się natychmiastowo równą częścią społeczności). 
 
+---
 
+O tak ciekawych rzeczach piszę teraz pracę licencjacką. Pomyślałem, że wracając do [blogowania](https://medium.com/biuletyn-bahrajński) podzielę się krótkim wstępem do tego czym zajmuję się teraz naukowo (poza nauką arabskiego, ale insha'allah). _Arabizmy_ mają nieco dwojaki cel - z jednej strony jest to szerzenie wiedzy na temat świata arabskiego (a zwłaszcza Półwyspu Arabskiego, z którym mam najwięcej do czynienia), oraz motywowanie mnie samego do dalszego zgłębiania tego fascynującego miejsca. Wpisy mogą być tematycznie zbieżne z moją działalnością naukową, natomiast nie jest to jedyne co zamierzam publikować w tej przestrzeni. Poza studiami zajmuję się również fotografią, stąd będą pojawiać się zdjęcia. Regularnie podróżuję też do Bahrajnu, gdzie ukończyłem liceum, stąd mój plan na publikację różnych urywków z życia w tym kraju.
+
+Na dole strony oraz [tutaj](https://abumarkey.github.io/arabizmy/about/) znajdują się formy kontaktu ze mną oraz linki do mediów społecznościowych bloga, gdzie również zapraszam :-) 
