@@ -12,6 +12,6 @@ Więcej na mój temat możesz przeczytać [tutaj](https://abumarkey.github.io/).
 
 ### kontakt
 
-[marek.fronc@pm.me](mailto:marek.fronc@pm.me) - [twitter](https://twitter.com/arabizmy) - [facebook](https://www.facebook.com/arabizmy)
+email: marek.fronc@pm.me • [twitter](https://twitter.com/arabizmy) • [facebook](https://www.facebook.com/arabizmy)
 
 <center><img src="https://i.postimg.cc/0N2VRbhh/D146074-E-0-C75-434-C-8-B13-F627-C0382682.png" alt="self-portrait" width="300" /></center>
