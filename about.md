@@ -6,7 +6,7 @@ permalink: /about/
 
 Nazywam się Marek Fronc i studiuję Bliski Wschód i Afrykę Północną na UJ. Moja praca licencjacka skupia się na nacjonalizmach w państwach arabskich Zatoki Perskiej. Przed rozpoczęciem studiów mieszkałem cztery lata w Bahrajnie, który regularnie odwiedzam. 
 
-Moje główne zainteresowania to współczesna polityka, kultura i historia Bliskiego Wschodu. Dla przykładu, w ramach Festiwalu Studiów Azjatyckich 2021 stworzyłem materiał nt. połowu pereł w Zatoce Perskiej ([link](https://www.youtube.com/watch?v=ST6vbuUlQ8E)). Poza czytaniem o nacjonalistach oraz nauką arabskiego (i niemieckiego), [robię też](https://instagram.com/abumarkey) zdjęcia telefonem. 
+Moje główne zainteresowania to współczesna polityka, kultura i historia Bliskiego Wschodu. Dla przykładu, w ramach Festiwalu Studiów Azjatyckich 2021 stworzyłem [wideo](https://www.youtube.com/watch?v=ST6vbuUlQ8E) nt. połowu pereł w Zatoce Perskiej. Poza czytaniem o nacjonalistach oraz nauką arabskiego (i niemieckiego), [robię też](https://instagram.com/abumarkey) zdjęcia telefonem. 
 
 Więcej na mój temat możesz przeczytać [tutaj](https://abumarkey.github.io/). 
 
