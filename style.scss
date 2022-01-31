@@ -108,7 +108,7 @@ em, i {
 }
 
 strong, b {
-  font-weight: 600;
+  font-weight: 500;
 }
 
 img {
@@ -162,6 +162,8 @@ img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
+  font-family: Karla;
+  font-weight: 400;
 
   @include mobile {
     text-align: center;
