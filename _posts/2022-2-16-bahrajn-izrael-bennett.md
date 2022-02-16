@@ -12,7 +12,7 @@ Bennett spotkał się też z wice admirałem Bradem Cooperem, dowódcą piątej 
 
 Szef izraelskiego rządu [dąży](https://www.reuters.com/world/middle-east/israel-seeks-new-regional-bloc-with-arab-partners-bennett-says-bahrain-2022-02-15/) do stworzenia wspólnego frontu z arabskimi partnerami przeciw "wrogom, którzy sieją chaos i terror". Najprawdopodobniej chodzi o Iran, który w ramach bliskowschodniej Zimnej Wojny oskarżany jest o wspieranie rebeliantów Ansar Allah w Jemenie. Od czasów rewolucji roku 1979 Iran jest przy tym przeciwnikiem Izraela. 
 
-Ansar Allah, znani też jako Huti, [przeprowadzili](https://www.aljazeera.com/news/2022/2/3/timeline-uae-drone-missile-attacks-houthis-yemen) w styczniu atak na rafinerię w okolicy Abu Dhabi, stolicy ZEA. ZEA oraz Bahrajn są częścią koalicji pod przewodnictwem Arabii Saudyjskiej, która walczy przeciw Ansar Allah w ramach [wojny w Jemenie](https://www.bbc.com/news/world-middle-east-29319423). 
+Ansar Allah, znani też jako Huti, [przeprowadzili](https://www.aljazeera.com/news/2022/2/3/timeline-uae-drone-missile-attacks-houthis-yemen) w styczniu atak na rafinerię w okolicy Abu Dhabi, stolicy ZEA. ZEA oraz Bahrajn są częścią koalicji pod przewodnictwem Arabii Saudyjskiej, która od 2015 walczy przeciw Ansar Allah w ramach [wojny w Jemenie](https://www.bbc.com/news/world-middle-east-29319423). 
 
 Bahrajn i Izrael unormowały swoje relacje w 2020, w ramach Porozumień Abrahamowych, których stroną były również Zjednoczone Emiraty Arabskie. Bahrajn i ZEA to pierwsze od ponad 20 lat państwa arabskie, które poszły w kierunku ocieplenia stosunków z Izraelem; Jordania uczyniła to podpisując z Izraelem traktat pokojowy w 1994. Egipt zrobił to samo w 1979.
 
