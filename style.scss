@@ -31,10 +31,10 @@ body {
 .dark-mode {
   background-color: #1C1C1C;
   color: #E9E9E9;
-}
-
-.dark-mode .h1, .h2, .h3, .h4, .h5, .h6 {
-	color: #E9E9E9;	
+	
+	@include h1, h2, h3, h4, h5, h6 {
+	 color: #E9E9E9;
+		}
 }
 
 .container {
