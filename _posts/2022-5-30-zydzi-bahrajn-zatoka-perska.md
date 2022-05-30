@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jak żydówka stała się ambasadorką arabskiego królestwa? 
+title: Jak żydówka stała się ambasadorką arabskiego królestwa? O żydach w Bahrajnie
 ---
 
 Najwcześniejsze wzmianki o obecności żydów w Bahrajnie wskazują na XII wiek, jednak początek żydowskiego życia we współczesnej historii Bahrajnu przypada na lata 80. XIX wieku. Okres począwszy od tego czasu do lat 20. i 30.  stanowi największą aktywność imigracyjną żydów na archipelag - głównie z Iranu i Iraku. Dziadek dzisiejszego lidera społeczności Ebrahima Dawooda Nonoo w wieku 12 lat przybył tu ze swoim wujem, który zarabiał na życie sprzedając srebrne nici zebrane z porzuconych sukienek. Jak mówi sam Ebrahim, pierwsi żydzi w Bahrajnie byli najcześciej odmieńcami, niemogącymi znaleźć zatrudnienia w Iranie czy Iraku - szukali zatem szczęścia w Bahrajnie. 
