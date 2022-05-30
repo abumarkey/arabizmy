@@ -37,16 +37,17 @@
           </nav>
         </header>
       </div>
-    </div>
-    
-<button onclick="myFunction()">włącz/wyłącz tryb nocny</button>
+      
+      <button onclick="myFunction()">tryb nocny</button>
 
 <script>
 function myFunction() {
    var element = document.body;
    element.classList.toggle("dark-mode");
-  }
+}
 </script>
+      
+    </div>
     
     <div id="main" role="main" class="container">
       {{ content }}
