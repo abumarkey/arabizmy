@@ -17,9 +17,16 @@ html {
   font-size: 100%;
 }
 
-.dark-mode {
-  background-color: #000;
-  color: #B9B8B8;
+input#dark-mode-switch:checked ~ .general-theme {
+  /* dark theme */
+  background: #222220;
+  color: #ddd;
+}
+
+.general-theme {
+  /* light theme */
+  background: #fff;
+  color: #222;
 }
 
 body {
@@ -295,6 +302,7 @@ footer {
   text-align: center;
 }
 
+  </div>
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
         @import "highlights";
