@@ -17,18 +17,6 @@ html {
   font-size: 100%;
 }
 
-input#dark-mode-switch:checked ~ .general-theme {
-  /* dark theme */
-  background: #222220;
-  color: #ddd;
-}
-
-.general-theme {
-  /* light theme */
-  background: #fff;
-  color: #222;
-}
-
 body {
       background: #fff;
       font-family: 'Inter', sans-serif;
