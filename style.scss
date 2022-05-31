@@ -17,6 +17,11 @@ html {
   font-size: 100%;
 }
 
+dark-mode {
+  background-color: #000;
+  color: #B9B8B8;
+}
+
 body {
       background: #fff;
       font-family: 'Inter', sans-serif;
@@ -26,11 +31,6 @@ body {
       text-align: justify;
       text-justify: auto;
       line-height: 1.5;
-}
-
-.dark-mode {
-  background-color: #000;
-  color: #B9B8B8;
 }
 
 .container {
@@ -44,11 +44,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Karla', sans-serif;
   color: #1C1C1C;
   font-weight: 300;
-	
-	.dark-mode {
-  background-color: #000;
-  color: #B9B8B8;
-	}
 	
   line-height: 1.5;
   margin: 1em 0 15px;
@@ -298,11 +293,6 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
-	
-	.dark-mode {
-  background-color: #000;
-  color: #B9B8B8;
-	}
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
