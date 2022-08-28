@@ -1,7 +1,7 @@
 ---
 layout: page
 title: o autorze
-permalink: /o-autorze/
+permalink: /about/
 ---
 
 Nazywam się Marek Fronc i ukończyłem studia bliskowschodnie na UJ. Swój licencjat napisałem o nacjonalizmach w Arabii Saudyjskiej i Zjednoczonych Emiratach Arabskuich. Przed rozpoczęciem studiów mieszkałem cztery lata w Bahrajnie, który regularnie odwiedzam.
