@@ -21,7 +21,7 @@ body {
 	background: $white;
   font: 18px/1.4 'Inter', sans-serif;
   font-weight: 400;
-  color: $darkGray;
+  color: #171717;
 }
 
 .container {
@@ -33,7 +33,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Karla', sans-serif;
-  color: $darkerGray;
+  color: #171717;
   font-weight: 600;
 
   line-height: 1.7;
@@ -70,11 +70,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #61bb52;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #61bb52;
   }
 }
 
@@ -104,7 +104,7 @@ em, i {
 }
 
 strong, b {
-  font-weight: bold;
+  font-weight: 500;
 }
 
 img {
@@ -118,17 +118,17 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: #61bb52;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $lightGray;
+  background: #61bb52;
 }
 ::selection {
   color: $black;
-  background: $lightGray;
+  background: #61bb52;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -195,8 +195,8 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
+  font-family: 'Karla', sans-serif;
+  font-weight: 400;
   font-size: 28px;
   letter-spacing: 1px;
 }
@@ -214,7 +214,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: 'Inter', sans-serif;
   font-size: 18px;
 
   @include mobile {
@@ -226,14 +226,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #61bb52;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: #61bb52;
     }
   }
 }
@@ -244,7 +244,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 0px solid $lightGray;
 }
 
 .posts > .post:last-child {
@@ -276,7 +276,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: #61bb52;
 }
 
 footer {
