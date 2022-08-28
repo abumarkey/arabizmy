@@ -4,9 +4,9 @@ title: o autorze
 permalink: /about/
 ---
 
-Nazywam się Marek Fronc i ukończyłem studia bliskowschodnie na UJ. Swój licencjat napisałem o nacjonalizmach w Arabii Saudyjskiej i Zjednoczonych Emiratach Arabskuich. Przed rozpoczęciem studiów mieszkałem cztery lata w Bahrajnie, który regularnie odwiedzam.
+Nazywam się Marek Fronc i jestem absolwentem UJ-otowych studiów bliskowschodnich. Mój licencat (r. 2022) dotyczy militaryzacji nacjonalizmów w Arabii Saudyjskiej oraz Zjednoczonych Emiratów Arabskich. Przed rozpoczęciem studiów mieszkałem cztery lata w Bahrajnie, który regularnie odwiedzam.
 
-Moje główne zainteresowania to współczesna polityka, kultura i historia Bliskiego Wschodu. Dla przykładu, w ramach Festiwalu Studiów Azjatyckich 2021 stworzyłem [wideo](https://www.youtube.com/watch?v=ST6vbuUlQ8E) nt. połowu pereł w Zatoce Perskiej. Poza czytaniem o nacjonalistach oraz nauką arabskiego (i niemieckiego), [robię też](https://instagram.com/abumarkey) zdjęcia telefonem. 
+Moje główne zainteresowania to relacje społeczno-polityczne i historia współczesna Bliskiego Wschodu. Dla przykładu, w ramach Festiwalu Studiów Azjatyckich 2021 stworzyłem [wideo](https://www.youtube.com/watch?v=ST6vbuUlQ8E) nt. połowu pereł w Zatoce Perskiej. W międyczasie poświęcam się nauce arabskiego (i niemieckiego) oraz [robię](https://instagram.com/abumarkey) zdjęcia telefonem. 
 
 Więcej na mój temat możesz przeczytać [tutaj](https://abumarkey.github.io/). 
 
