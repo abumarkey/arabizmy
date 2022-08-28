@@ -22,6 +22,7 @@ body {
   font: 18px/1.4 'Inter', sans-serif;
   font-weight: 400;
   color: #171717;
+  text-align: justify;
 }
 
 .container {
@@ -74,7 +75,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #61bb52;
+    color: #60c64f;
   }
 }
 
