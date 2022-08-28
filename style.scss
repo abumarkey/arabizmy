@@ -5,7 +5,7 @@
 // IMPORTS
 //
 
-@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&family=Prompt:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,300;0,400;1,300;1,400&family=Karla:wght@300&display=swap');
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
@@ -20,7 +20,7 @@ html {
 
 body {
 	background: $white;
-  font: 16px 'Prompt', sans-serif;
+  font: 16px 'Archivo', sans-serif;
   font-weight: 300;
   color: #171717;
   text-align: justify;
@@ -217,7 +217,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: 'Prompt', sans-serif;
+  font-family: 'Archivo', sans-serif;
   font-size: 18px;
 
   @include mobile {
