@@ -4,7 +4,7 @@ title: Jak ZEA budują sobie naród
 ---
 
 
-W kręgach rządowych Półwyspu Arabskiego od lat narasta świadomość, że konieczne staje się odejście od dotychczasowej polityki *welfare state*, która bazowała na niekończącym się strumieniu petrodolarów. Stąd niektóre państwa Zatoki Perskiej^1^ odchodzą od modelu rozrzucania petrodolarów za posłuszeństwo i szukają innych sposobów na zbudowanie w społeczeństwie poczucia przynależności narodowej. Dziś przedstawię przypadek Zjednoczonych Emiratów Arabskich.^2^
+W kręgach rządowych Półwyspu Arabskiego od lat narasta świadomość, że konieczne staje się odejście od dotychczasowej polityki *welfare state*, która bazowała na niekończącym się strumieniu petrodolarów. Stąd niektóre państwa Zatoki Perskiej^1 odchodzą od modelu rozrzucania petrodolarów za posłuszeństwo i szukają innych sposobów na zbudowanie w społeczeństwie poczucia przynależności narodowej. Dziś przedstawię przypadek Zjednoczonych Emiratów Arabskich.^2
 
 Podobnie jak w innych krajach, lokalni emirowie implementują politykę promującą poczucie [partykularnej przynależności narodowej](https://abumarkey.github.io/arabizmy/zatoka-perska-sokolnictwo/), m. in. poprzez "wioski dziedzictwa", w których umiejscowione są muzea narodowe i skanseny. ZEA zdecydowanie największy nacisk postawiły jednak na formację nowego obywatela poprzez siły zbrojne, wprowadzając w 2014 obowiązkowy pobór wojskowy dla mężczyzn w wieku 18-30 lat. Kobiety mogą wziąć udział, ale jest dla nich krótszy oraz nieobowiązkowy.
 
