@@ -4,7 +4,7 @@ title: Jak ZEA budują sobie naród
 ---
 
 
-W kręgach rządowych Półwyspu Arabskiego od lat narasta świadomość, że konieczne staje się odejście od dotychczasowej polityki *welfare state*, która bazowała na niekończącym się strumieniu petrodolarów. Stąd niektóre państwa Zatoki Perskiej* odchodzą od modelu rozrzucania petrodolarów za posłuszeństwo i szukają innych sposobów na zbudowanie w społeczeństwie poczucia przynależności narodowej. Dziś przedstawię przypadek Zjednoczonych Emiratów Arabskich.**
+W kręgach rządowych Półwyspu Arabskiego od lat narasta świadomość, że konieczne staje się odejście od dotychczasowej polityki *welfare state*, która bazowała na niekończącym się strumieniu petrodolarów. Stąd niektóre państwa Zatoki Perskiej** odchodzą od modelu rozrzucania petrodolarów za posłuszeństwo i szukają innych sposobów na zbudowanie w społeczeństwie poczucia przynależności narodowej. Dziś przedstawię przypadek Zjednoczonych Emiratów Arabskich.***
 
 Podobnie jak w innych krajach, lokalni emirowie implementują politykę promującą poczucie [partykularnej przynależności narodowej](https://abumarkey.github.io/arabizmy/zatoka-perska-sokolnictwo/), m. in. poprzez "wioski dziedzictwa", w których umiejscowione są muzea narodowe i skanseny. ZEA zdecydowanie największy nacisk postawiły jednak na formację nowego obywatela poprzez siły zbrojne, wprowadzając w 2014 obowiązkowy pobór wojskowy dla mężczyzn w wieku 18-30 lat. Kobiety mogą wziąć udział, ale jest dla nich krótszy oraz nieobowiązkowy.
 
@@ -22,6 +22,6 @@ Ograniczone są badania dotyczące reakcji obywateli na nową politykę narodowo
 
 ---
 
-* zauważam tylko na marginesie, że nazwa "Zatoka *Perska*" jest tu sporna. Arabowie uważają, że Zatoka jest Arabska, podczas gdy w Iranie trzymają się nazwy, którą znamy na całym świecie - Zatoka Perska. By uniknąć nieporozumień, w użytku codziennym występuje pojęcie "the Gulf" lub "al-Khaleej"/الخليج (ar. Zatoka). Uważam ten spór za iście małostkowy i miałki, stąd upieram się przy znanym globalnie nazewnictwie.
+** zauważam tylko na marginesie, że nazwa "Zatoka *Perska*" jest tu sporna. Arabowie uważają, że Zatoka jest Arabska, podczas gdy w Iranie trzymają się nazwy, którą znamy na całym świecie - Zatoka Perska. By uniknąć nieporozumień, w użytku codziennym występuje pojęcie "the Gulf" lub "al-Khaleej"/الخليج (ar. Zatoka). Uważam ten spór za iście małostkowy i miałki, stąd upieram się przy znanym globalnie nazewnictwie.
 
-** Podobne działania mają miejsce też w Arabii Saudyjskiej, Katarze i Kuwejcie, ale o nich kiedy indziej. 
+*** Podobne działania mają miejsce też w Arabii Saudyjskiej, Katarze i Kuwejcie, ale o nich kiedy indziej. 
