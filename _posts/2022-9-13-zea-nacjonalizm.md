@@ -22,6 +22,6 @@ Ograniczone są badania dotyczące reakcji obywateli na nową politykę narodowo
 
 ---
 
-** zauważam tylko na marginesie, że nazwa "Zatoka *Perska*" jest tu sporna. Arabowie uważają, że Zatoka jest Arabska, podczas gdy w Iranie utrzymują, że Perska. By uniknąć nieporozumień, w użytku codziennym występuje pojęcie "the Gulf" lub "al-Khaleej"/الخليج (ar. Zatoka). Uważam ten spór za iście małostkowy i miałki, stąd upieram się przy znanym globalnie nazewnictwie.
+** zauważam tylko na marginesie, że nazwa "Zatoka *Perska*" jest tu sporna. Arabowie uważają, że Zatoka jest Arabska. Wynikło to z zimnowojennego arabskiego nacjonalizmu, a współcześnie [jest](https://gulfnews.com/world/gulf/bahrain/gcc-to-protest-persian-gulf-name-by-fifa-1.1234937) częścią sporu między monarchiami Arabskimi a Iranem. By uniknąć nieporozumień, w użytku codziennym występuje pojęcie "the Gulf" lub "al-Khaleej"/الخليج (ar. Zatoka). Uważam ten spór za iście małostkowy i miałki, stąd upieram się przy znanym globalnie nazewnictwie.
 
 *** Podobne działania mają miejsce też w Arabii Saudyjskiej, Katarze i Kuwejcie, ale o nich kiedy indziej. 
