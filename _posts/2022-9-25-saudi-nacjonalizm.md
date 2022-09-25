@@ -1,0 +1,40 @@
+---
+layout: post
+title: Arabia Saudyjska ma 92 lata
+---
+
+W piątek państwo saudyjskie [obchodziło](https://english.alarabiya.net/News/gulf/2022/09/23/Saudi-Arabia-s-92nd-National-Day-Fireworks-air-shows-marks-country-s-founding-) 92 dzień narodowy, choć tak naprawdę święto ustanowiono w 2005 roku. Podobnie jak [w przypadku](https://abumarkey.github.io/arabizmy/zea-nacjonalizm/) Zjednoczonych Emiratów Arabskich, Saudyjczycy chcą na nowo zdefiniować czym jest saudyjskość.  
+
+Za ustanowieniem Dnia Narodowego stoi jego wujek, zmarły król Abdulla, ale największe nasilenie się polityki nacjonalistycznej przypada na rządy księcia koronnego Muhammada bin Salmana (MbS).** Centralnym elementem jego działalności jest program reformatorski Vision 2030. Reformy te są szalenie ambitne i daleko idące, możemy jednak wyłuskać szereg głównych elementów. Kluczowe pozostają tematy gospodarcze - w dużo większym stopniu niż wojskowość w ZEA. 
+
+Tożsamość narodowa i dziedzictwo pojawiają się w szeregi pomniejszych planów poświęconych Vision 2030. *Human Capability Development Program* bazuje na trzech założeniach. Po pierwsze jest to "rozwój bazy edukacyjnej dla wszystkich, przygotowanie rynku pracy na przyszłość oraz zapewnieniu życiowych szans na naukę". W kontekście nacjonalizmu znaczenia nabiera edukacja, gdyż to w jej ramach autorzy ujęli "zaszczepienie wartości, w sensie przynależności narodowej oraz wartości obywatelstwa światowego". 
+
+Podkreślają przy tym ułatwienie dostępu do edukacji wysokiej jakości, by obywatele działali w ramach kultury przedsiębiorczości i innowacji, a przez to byli przygotowani byli na "nadchodzącą rewolucję przemysłową".
+
+Rozwijając problematykę tożsamości narodowej, autorzy zwracają uwagę na zaszczepienie poczucia przynależności narodowej, ale również powściągliwości, tolerancji, dyscypliny oraz determinacji. Podkreślają również rolę języka arabskiego dla tożsamości. Program zapowiada zachowanie narodowego, arabskiego i muzułmańskiego dziedzictwa i charakteru Arabii Saudyjskiej. 
+
+Kolejnym interesującym elementem Vision 2030 jest dokument *Quality of Life Program*, który rozwija problematykę saudyjskiego dziedzictwa. Konserwacja i promocja saudyjskości to zatem renowacja miejsc historycznych oraz "organizacja i dostępność wydarzeń", szczególnie poświęconych kulturze i sztuce. Istotny dla autorów jest rozwój umiejętności z zakresu m. in.  sztuk wizualnych, performatywnych i elementów folklorystycznych (takich jak tańce). Władze mają więc pracować ku zwiększeniu liczby dni poświęconych wydarzeniom kulturalnym o ilości absolwentów kierunków związanych z kulturą. Istotna jest również turystyka w miejscach dziedzictwa kulturowego, a przez to również ich ilość na liście UNESCO. 
+
+Rodzina królewska al-Saudów co śmielej podkreśla też swoją własną rolę w stworzeniu państwa. Dzień Ustanowienia (22 lutego), ogłoszony w tym roku, [odnosi się](https://agsiw.org/saudi-arabias-national-days-an-evolving-state-formation-narrative/) do powstania Pierwszego Państwa Saudyjskiego. Według nowej interpretacji, w 1727 roku stworzył je przywódca plemienny Muhammad ibn Saud - sam. Do tej pory uznanym początkiem istnienia saudyjskiej państwowości był rok 1744, gdy Mohammad ibn Saud zawiązał sojusz z klerykiem Muhammadem ibn Abdul-Wahhabem; w rezultacie powstał [Emirat Dirija](https://en.wikipedia.org/wiki/Emirate_of_Diriyah), który szybko poszerzał swoje granice. 
+
+Krok ten oraz nadanie większej wagi starożytnym miejscom historycznym (takim jak [al-Ula](https://welcomesaudi.com/news/discover-al-ula-saudi-arabias-forgotten-past) - saudyjski odpowiednik Petry) można zrozumieć jako próby zdystansowania się od złej prasy wahhabizmu. Ma to sens w kontekście nawyku MbS-a, który co róż podkreśla jak ważny jest dla niego "umiarkowany islam". 
+
+Dyskurs militarystyczny odgrywa również swoją rolę, ale w odróżnieniu od ZEA, nie istnieje system tworzenia nowego obywatela przez bezpośrednie uczestnictwo w działaniach sił zbrojnych. Rola wojska jest zauważalna w formie agresywnej i szowinistycznej polityki zagranicznej. Czołową rolę w tym odgrywa inwazja na Jemen, gdzie Saudowie walczą przeciw ruchowi Ansar Allah. Królestwo przedstawia żołnierzy walczących w Jemenie jako obrońców ojczyzny, a w mediach społecznościowych pojawia się szereg hasztagów np. "Nasi_bohaterowie_w_Ramadan". Są one promowane przez saudyjskie media (pod ścisłą kontrolą rządu) i wykorzystywane przez instytucje rządowe. 
+
+Saudyjskie media oraz osobistości religijne promują wojnę jako „pole bitwy między Saudyjczykami a szyitami - mniejszościowym odłamem muzułmanów***. Przywódca Arabii Saudyjskiej oskarżył szyicką Islamską Republikę Iranu o wspieranie Ansar Allah w celu destabilizacji regionu. Arabia Saudyjska jawi się zatem jako obrońca arabskości oraz muzułmańskości Półwyspu Arabskiego. 
+
+Zradykalizowana retoryka przenika do dyskursu wewnątrzpaństwowego. Minister kultury i informacji Awwad al-Awwad wprost powiedział, że "nikt nie powinien pozostawać neutralny". Na antenie programu *Fi Alsamim*, dyrektor Centrum ds. Narodowego Dialogu im. Króla Abdulaziza Abdullah al-Fawzan, odrzekł zaś, że zdrajcą jest każdy, kto nie broni aktywnie narodu. MbS-a media określają zaś jako "architekta 'Sztormu'" (inwazji na Jemen) oraz "polityka od trudnych decyzji". 
+
+Jeszcze trudniej niż w ZEA określić reakcję społeczeństwa na odgórny dyskurs nacjonalistyczny. Istnieją mimo to pewne trendy. Część Saudyjczyków postrzega narodową tożsamość saudyjską w opozycji do tożsamości muzułmańskiej i tożsamości lokalnych. Problem pojawia się już przy nazwie państwa, która odwołuje się do jednej, konkretnej rodziny, która nieprzerwanie jest u władzy od 1932 r. Z tego powodu część Saudyjczyków czuje silniejszy związek ze swoją ziemią lub klanem niż z państwem, którego nazwa nie odnosi się do nich. Ich własne *nazwiska***** mogą mieć dłuższą historię niż królestwo, w którym żyją.
+
+Młodzi Saudyjczycy zwracają jednak uwagę, że wydarzenia takie jak Dzień Narodowy czy festiwal folkowy Dżanadrijja faktycznie wywołują wśród obywateli poczucie dumy i przynależności do szerszej społeczności saudyjskiej. Odczuwają dzięki takim inicjatywom większe zbliżenie z mieszkańcami innych części Królestwa, które przez większą część historii jest bardzo sfragmentaryzowane i shierarchizowane według linii plemiennych, religijnych i regionalnych. Wzrasta też odsetek Saudyjczyków określających się przede wszystkim jako Saudyjczycy, kosztem tych utożsamiających się głównie jako muzułmanie. W 2003 było ich 17%, a w 2011 już 48%. 
+
+W kontekście zmian społecznych wynikających z programu Vision 2030 należy z pewnością odnotować ewolucję postaw młodego pokolenia na bardziej ambitne i skierowane ku przyszłości. Nowość ta jest szczególnie widoczna wśród dobrze wyedukowanych Saudyjczyków, a więc tych, którzy mają ułatwiony dostęp do sektorów gospodarki związanych z reformami. Sprawia to, że chętniej zostają w kraju, w którym dostrzegają perspektywy na dobre warunki życia. Postawa ta uwidoczniła się w trakcie pandemii koronawirusa, gdy mieszkańcy Królestwa porównywali stosunkowo stabilną sytuację zdrowotną w kraju do tego jak radziły sobie inne części świata. 
+
+---
+
+** MbS, syn króla Salmana panującego od 2015, jest następcą tronu. Tajemnicą poliszynela jest zły stan zdrowia ojca (plotki mówią wręcz o demencji lub Alzhaimerze), zatem junior zajmuje się rządzeniem kraju na co dzień; 
+
+*** szyci są większością w Iranie, gdzie rządzą, ale stanowią też ok. 10% rdzennej populacji Arabii Saudyjskiej. Według bardziej ekstremistycznego dyskursu nie są uznawani za prawdziwych i lojalnych Saudyjczyków, a niektórzy wręcz odżegnują ich od niewiernych; 
+
+**** nazwiska w świecie arabskim to ciekawa historia; w naszym rozumieniu w zasadzie nie istnieją, ale dla uproszczenia wybiera się imię któregoś przodka, zawód lub miejsce pochodzenia. Każdy Arab ma przynajmniej 3 imiona (nadane, po ojcu i po dziadku), po którym pojawia się odniesienie do cechy charakterystycznej (*laqab*), zawodu, miejsca pochodzenia lub plemienia. Polecam [to](https://www.councilscienceeditors.org/wp-content/uploads/v28n1p020-021.pdf) opracowanie. 
