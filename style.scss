@@ -73,11 +73,12 @@ p {
 }
 
 a {
-  color: #61bb52;
+  color: #5EAA5B;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #55d240;
+    color: #5EAA5B;
+    text-decoration: underline dotted; 
   }
 }
 
