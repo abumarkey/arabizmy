@@ -5,7 +5,7 @@
 // IMPORTS
 //
 
-@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,400;0,500;1,400;1,400&family=Karla:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&family=Public+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap');
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
@@ -20,8 +20,8 @@ html {
 
 body {
 	background: $white;
-  font: 16px 'Archivo', sans-serif;
-  font-weight: 400;
+  font: 16px 'Public Sans', sans-serif;
+  font-weight: 300;
   color: #171717;
   text-align: justify;
   line-height: 1.4;
@@ -107,7 +107,7 @@ em, i {
 }
 
 strong, b {
-  font-weight: 500;
+  font-weight: 400;
 }
 
 img {
