@@ -54,7 +54,7 @@ h1 {
     color: inherit;
 	  &:hover, &:active {
     color: #171717;
-    text-decoration: underline dotted;
+    text-decoration: underline;
   }
 }
 
@@ -81,7 +81,7 @@ a {
 	cursor: pointer;
   &:hover, &:active {
     color: #5EAA5B;
-    text-decoration: underline dotted; 
+    text-decoration: underline; 
   }
 }
 
