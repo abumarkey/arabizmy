@@ -6,9 +6,9 @@ permalink: /about/
 
 Nazywam się Marek Fronc i jestem absolwentem UJ-otowskich studiów bliskowschodnich. Mój licencjat dotyczy militaryzacji nacjonalizmów w Arabii Saudyjskiej oraz Zjednoczonych Emiratach Arabskich. Przed rozpoczęciem studiów mieszkałem cztery lata w Bahrajnie, który regularnie odwiedzam.
 
-Moje główne zainteresowania to relacje społeczno-polityczne i historia współczesna Bliskiego Wschodu. Dla przykładu, w ramach Festiwalu Studiów Azjatyckich 2021 stworzyłem [wideo](https://www.youtube.com/watch?v=ST6vbuUlQ8E) nt. połowu pereł w Zatoce Perskiej. W ramach 8. edycji Festiwalu [poczyniłem](https://abumarkey.github.io/arabizmy/zydzi-bahrajn-zatoka-perska) prelekcję o mniejszości żydowskiej w Bahrajnie. Poświęcam się też nauce arabskiego (i niemieckiego) oraz [fotografii](https://instagram.com/abumarkey) mobilnej. 
+Interesuję się przede wszystkim historią najnowszą Bliskiego Wschodu. Jestem też zafascynowany relacjami społecznymi oraz wpływem na nie polityki. Stąd tyle uwagi poświęcam dyskursom nacjonalistycznym. Uwielbiam dzielić się wiedzą, zatem mówiłem też o [historii](https://www.youtube.com/watch?v=ST6vbuUlQ8E) połowu pereł w Zatoce Perskiej oraz [sytuacji](ttps://abumarkey.github.io/arabizmy/zydzi-bahrajn-zatoka-perska). 
 
-Więcej na mój temat możesz przeczytać [tu](https://abumarkey.github.io/) i [tu](https://abumarkey.github.io/arabizmy/poczatek/). 
+Poświęcam się też nauce arabskiego (i niemieckiego) oraz [fotografii](https://instagram.com/abumarkey) mobilnej. Więcej na mój temat możesz przeczytać [tu](https://abumarkey.github.io/) i [tu](https://abumarkey.github.io/arabizmy/poczatek/). 
 
 ### kontakt
 
