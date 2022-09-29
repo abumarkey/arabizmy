@@ -54,7 +54,7 @@ h1 {
     color: #171717;
     text-decoration: none;
 	  &:hover, &:active {
-    color: #171717;
+    color: inherit;
     text-decoration: underline;
   }
 }
