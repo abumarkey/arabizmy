@@ -19,7 +19,7 @@ Krok ten oraz nadanie większej wagi starożytnym miejscom historycznym (takim j
 
 Dyskurs militarystyczny odgrywa również swoją rolę, ale inaczej niż w ZEA, nie istnieje system tworzenia nowego obywatela przez bezpośrednie uczestnictwo w działaniach sił zbrojnych. Rola wojska jest zauważalna w formie agresywnej i szowinistycznej polityki zagranicznej. Czołową rolę w tym odgrywa inwazja na Jemen, gdzie Saudowie walczą przeciw ruchowi Ansar Allah. Królestwo przedstawia żołnierzy walczących w Jemenie jako obrońców ojczyzny, a w mediach społecznościowych pojawia się szereg hasztagów np. "[Nasi_bohaterowie_w_Ramadan](https://www.instagram.com/explore/tags/%D8%A3%D8%A8%D8%B7%D8%A7%D9%84%D9%86%D8%A7_%D9%81%D9%8A_%D8%B1%D9%85%D8%B6%D8%A7%D9%86/)". Są one promowane przez saudyjskie media (pod ścisłą kontrolą rządu) i wykorzystywane przez instytucje rządowe. 
 
-Saudyjskie media oraz osobistości religijne promują wojnę jako „pole bitwy między Saudyjczykami a szyitami - mniejszościowym odłamem muzułmanów**. Przywódca Arabii Saudyjskiej oskarżył szyicką Islamską Republikę Iranu o wspieranie Ansar Allah w celu destabilizacji regionu. Arabia Saudyjska jawi się zatem jako obrońca arabskości oraz muzułmańskości Półwyspu Arabskiego. 
+Saudyjskie media oraz osobistości religijne promują wojnę jako „pole bitwy między Saudyjczykami a szyitami - mniejszościowym odłamem muzułmanów***. Przywódca Arabii Saudyjskiej oskarżył szyicką Islamską Republikę Iranu o wspieranie Ansar Allah w celu destabilizacji regionu. Arabia Saudyjska jawi się zatem jako obrońca arabskości oraz muzułmańskości Półwyspu Arabskiego. 
 
 Zradykalizowana retoryka przenika do dyskursu wewnątrzpaństwowego. Minister kultury i informacji Awwad al-Awwad wprost powiedział, że "nikt nie powinien pozostawać neutralny". Na antenie programu *Fi Alsamim*, dyrektor Centrum ds. Narodowego Dialogu im. Króla Abdulaziza Abdullah al-Fawzan, odrzekł zaś, że zdrajcą jest każdy, kto nie broni aktywnie narodu. MbS-a media określają zaś jako "architekta 'Sztormu'" (inwazji na Jemen) oraz "polityka od trudnych decyzji". 
 
@@ -31,8 +31,8 @@ W kontekście zmian społecznych wynikających z programu Vision 2030 należy z 
 
 ---
 
-* MbS, syn króla Salmana panującego od 2015, jest następcą tronu. Tajemnicą poliszynela jest zły stan zdrowia ojca (plotki mówią wręcz o demencji lub Alzhaimerze), zatem junior zajmuje się rządzeniem kraju na co dzień; 
+** MbS, syn króla Salmana panującego od 2015, jest następcą tronu. Tajemnicą poliszynela jest zły stan zdrowia ojca (plotki mówią wręcz o demencji lub Alzhaimerze), zatem junior zajmuje się rządzeniem kraju na co dzień; 
 
-** szyci są większością w Iranie, gdzie rządzą, ale stanowią też ok. 10% rdzennej populacji Arabii Saudyjskiej. Według bardziej ekstremistycznego dyskursu nie są uznawani za prawdziwych i lojalnych Saudyjczyków, a niektórzy wręcz odżegnują ich od niewiernych; 
+*** szyci są większością w Iranie, gdzie rządzą, ale stanowią też ok. 10% rdzennej populacji Arabii Saudyjskiej. Według bardziej ekstremistycznego dyskursu nie są uznawani za prawdziwych i lojalnych Saudyjczyków, a niektórzy wręcz odżegnują ich od niewiernych; 
 
 *** nazwiska w świecie arabskim to ciekawa historia; w naszym rozumieniu w zasadzie nie istnieją, ale dla uproszczenia wybiera się imię któregoś przodka, zawód lub miejsce pochodzenia. Każdy Arab ma przynajmniej 3 imiona (nadane, po ojcu i po dziadku), po którym pojawia się odniesienie do cechy charakterystycznej (*laqab*), zawodu, miejsca pochodzenia lub plemienia. Polecam [to](https://www.councilscienceeditors.org/wp-content/uploads/v28n1p020-021.pdf) opracowanie. 
