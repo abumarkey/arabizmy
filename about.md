@@ -10,7 +10,7 @@ Interesuję się przede wszystkim historią najnowszą Bliskiego Wschodu. Jestem
 
 Poświęcam się też nauce arabskiego (i niemieckiego) oraz [fotografii](https://instagram.com/abumarkey) mobilnej. Więcej na mój temat możesz przeczytać [tu](https://abumarkey.github.io/) i [tu](https://abumarkey.github.io/arabizmy/poczatek/). 
 
-Niniejszy blog powstał bo uwielbiam dzielić się wiedzą, zaś ta w Polsce dotycząca Bliskiego Wschodu jest ograniczona. Arabizmy to miejsce, dzięki któremu mogę was informować o tym szalenie ciekawym i ważnym regionie. Wierzę, że czytelnika _może_ to zainteresować, a mam przy tym motywację, by samemu wciąż się uczyć. 
+Niniejszy blog powstał bo uwielbiam dzielić się wiedzą, zaś ta w Polsce dotycząca Bliskiego Wschodu jest ograniczona. Arabizmy to miejsce, dzięki któremu mogę was informować o tym szalenie ciekawym i ważnym regionie. Uważam, że czytelnika _może_ to zainteresować, a mam przy tym motywację, by samemu wciąż się uczyć. 
 
 ### kontakt
 
