@@ -5,7 +5,7 @@
 // IMPORTS
 //
 
-@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&family=Public+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&family=IBM+Plex+Sans:ital,wght@0,400;0,500;1,400;1,500&display=swap');
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
@@ -20,8 +20,8 @@ html {
 
 body {
   background: #EDEDED;
-  font: 16px 'Public Sans', sans-serif;
-  font-weight: 300;
+  font: 17px 'IBM Plex Sans', sans-serif;
+  font-weight: 400;
   color: #171717;
   text-align: justify;
   line-height: 1.4;
@@ -109,7 +109,7 @@ em, i {
 }
 
 strong, b {
-  font-weight: 400;
+  font-weight: 500;
 }
 
 img {
