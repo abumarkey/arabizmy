@@ -22,7 +22,7 @@ Książka niemieckiej [historyk](http://www.fraukeheardbey.com/) skupia się na 
 
 Fascynujące dzieło brytyjskiego [badacza](https://kfcris.com/en/researcher/21) o młodych mężczyznach w Arabii Saudyjskiej. Marc C. Thompson w przystępny sposób wyjaśnia problematykę współczesnej tożsamości wśród Saudyjczyków, oraz sposób w jaki państwo saudyjskie próbuje wpływać nań. [więcej na cambridge](https://www.cambridge.org/core/books/being-young-male-and-saudi/3860933F83E7D80A3DD7C33631DE332E)
 
-### _History of Arab Peoples_ - Albert Hourani
+### _A History of Arab Peoples_ - Albert Hourani
 
 Obszerna publikacja libańskiego [historyka](https://mesana.org/awards/category/albert-hourani-book-award/albert-hourani-biographical-sketch). W naprawdę wyczerpujący sposób (edycja z 2013 ma ok. 600 stron!) przedstawia historię całego regionu MENA, nadając zarówno kontekst do czasów proroka Mahometa, aż do drugiej połowy XX wieku. [więcej na goodreads](https://www.goodreads.com/book/show/854790.A_History_of_the_Arab_Peoples)
  
