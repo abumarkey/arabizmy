@@ -27,8 +27,6 @@ Fascynujące dzieło brytyjskiego [badacza](https://kfcris.com/en/researcher/21)
 Obszerna publikacja libańskiego [historyka](https://mesana.org/awards/category/albert-hourani-book-award/albert-hourani-biographical-sketch). W naprawdę wyczerpujący sposób (edycja z 2013 ma ok. 600 stron!) przedstawia historię całego regionu MENA, nadając zarówno kontekst do czasów proroka Mahometa, aż do drugiej połowy XX wieku. [goodread](https://www.goodreads.com/book/show/854790.A_History_of_the_Arab_Peoples)
  
 
-[lubimyczytać](https://lubimyczytac.pl/ksiazka/4821335/wyniosle-wieze-al-kaida-i-atak-na-ameryke)
-
 ## J. arabski 
 
 Od początku licencjatu (2019) uczę się j. arabskiego. W międzyczasie korzystałem z szeregu różnych podręczników różnej jakości. Poniżej przedstawiam te, które faktycznie pomagają mi w opanowaniu tego fascynującego języka. Kolejność, również i tu, jest przypadkowa. 
