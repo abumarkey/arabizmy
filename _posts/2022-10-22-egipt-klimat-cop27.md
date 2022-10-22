@@ -3,7 +3,7 @@ layout: post
 title: COP27 w Egipcie pogrążony w kontrowersji
 ---
 
-Do 27. konferencji ds. zmian klimatu ONZ [pozostały](https://news.yahoo.com/cop27-why-does-matter-141003649.html) jeszcze dwa tygodnie, ale już teraz pojawiają się pytania czy organizacja wydarzenia w Egipcie to odpowiednia decyzja. 
+Do 27. konferencji ds. zmian klimatu ONZ [pozostały](https://news.yahoo.com/cop27-why-does-matter-141003649.html) jeszcze dwa tygodnie, ale już teraz pojawiają się pytania czy organizacja wydarzenia w autorytarnym Egipcie to odpowiednia decyzja. 
 
 Coroczna Konferencja COP27 odbędzie się w dniach 6-18 listopada 2022 w Szarm el-Szejk. Zrzesza ona 197 sygnatariuszy [UNFCCC](https://unfccc.int/): Ramowej konwencji ONZ w sprawie zmian klimatu. Konwencji przyświecają szlachetne cele - walka z efektami kryzysu klimatycznego poprzez współpracę naukową i polityczną. 
 
