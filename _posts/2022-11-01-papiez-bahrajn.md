@@ -3,7 +3,7 @@ layout: post
 title: Papież w Bahrajnie
 ---
 
-3 listopada Papież Franciszek [przyleci](https://www.facebook.com/arabizmy/posts/pfbid0HLDkxGbeWqKYdsA4sprDYHHLpHsECMi4RXAC7qNvF8Sy3EqRZrpXdPj4YaQvGLqPl) do Bahrajnu. Papież weźmie też udział w konferencji *Bahrajńskie forum dialogu: Wschód i Zachód na rzecz ludzkiego współistnienia*. Zjawi się na niej m. in. Ahmed el-Tayeb, wielki imam al-Azharu - jeden z najważniejszych autorytetów islamu sunnickiego. Druga wizyta głowy Kościoła Katolickiego w Zatoce Perskiej potrwa trzy dni.
+3 listopada Papież Franciszek [przyleci](https://www.facebook.com/arabizmy/posts/pfbid0HLDkxGbeWqKYdsA4sprDYHHLpHsECMi4RXAC7qNvF8Sy3EqRZrpXdPj4YaQvGLqPl) do Bahrajnu. Weźmie udział w konferencji *Bahrajńskie forum dialogu: Wschód i Zachód na rzecz ludzkiego współistnienia*. Zjawi się na niej m. in. Ahmed el-Tayeb, wielki imam al-Azharu - jeden z najważniejszych autorytetów islamu sunnickiego. Spotka się też z królem Hamadem bin Isą i odprawi mszę na stadionie. Druga wizyta głowy Kościoła Katolickiego w Zatoce Perskiej potrwa trzy dni.
 
 Wydarzenie stanowi część szerszej bahrajńskiej polityki, która ma promować królestwo jako państwo bezpieczne i otwarte na różnorodność. Czołowym elementem jest promocja lokalnych mniejszości religijnych. Żydzi i chrześcijanie otrzymują zatem intratne państwowe posady, takie jak [ambasadorka](https://abumarkey.github.io/arabizmy/zydzi-bahrajn-zatoka-perska/) czy [członkini](https://www.thenationalnews.com/gulf-news/bahrain/2022/10/31/dream-come-true-arab-catholics-in-bahrain-speak-of-popes-visit/) Rady Szury - izby wyższej parlamentu, mianowanej przez króla. 
 
