@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bahrajn 
+title: Papież w Bahrajnie
 ---
 
 3 listpada Papież Franciszek [przyleci](https://www.facebook.com/arabizmy/posts/pfbid0HLDkxGbeWqKYdsA4sprDYHHLpHsECMi4RXAC7qNvF8Sy3EqRZrpXdPj4YaQvGLqPl) do Bahrajnu. Mimo porannej godziny (8:00), 20 tysięcy osób [zarejestrowało](https://www.thenationalnews.com/gulf-news/bahrain/2022/10/28/more-than-2000-people-register-to-attend-pope-francis-bahrain-mass/) się na mszę papieską, która odbędzie się 5 listopada na Stadionie Narodowym. Papież weźmie też udział w konferencji *Bahrajńskie forum dialogu: Wschód i Zachód na rzecz ludzkiego współistnienia*. Zjawi się na niej m. in. Ahmed el-Tayeb, wielki imam al-Azharu - jeden z najważniejszych autorytetów islamu sunnickiego. Druga wizyta głowy Kościoła Katolickiego w Zatoce Perskiej potrwa trzy dni.
