@@ -5,8 +5,7 @@
 // IMPORTS
 //
 
-@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&family=IBM+Plex+Sans:ital,wght@0,400;0,500;1,400;1,500&display=swap');
-@import "reset";
+ @import url('https://fonts.googleapis.com/css2?family=Domine:wght@400;500&family=Old+Standard+TT&display=swap');@import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
@@ -20,7 +19,7 @@ html {
 
 body {
   background: #EDEDED;
-  font: 17px 'IBM Plex Sans', sans-serif;
+  font: 17px 'Domine', serif;
   font-weight: 400;
   color: #171717;
   text-align: justify;
@@ -35,7 +34,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Karla', sans-serif;
+  font-family: 'Old Standard TT', serif;
   color: #171717;
   font-weight: 300;
 
