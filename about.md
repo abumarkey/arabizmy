@@ -14,6 +14,6 @@ Niniejszy blog powstał bo uwielbiam dzielić się wiedzą, zaś ta w Polsce dot
 
 ### kontakt
 
-email: marek.fronc@proton.me · [twitter](https://twitter.com/arabizmy) · [facebook](https://www.facebook.com/arabizmy) · <a rel="me" href="https://101010.pl/@marc">mastodon</a>
+email: marek.fronc@proton.me · [twitter](https://twitter.com/arabizmy) · [facebook](https://www.facebook.com/arabizmy) · <a rel="me" href="https://masto.ai/@abumarkey">mastodon</a>
 
 <center><img src="https://i.postimg.cc/0N2VRbhh/D146074-E-0-C75-434-C-8-B13-F627-C0382682.png" alt="self-portrait" width="300" /></center>
