@@ -73,11 +73,11 @@ p {
 }
 
 a {
-  color: #002420;
+  color: #006358;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #006358;
+    color: #002420;
     text-decoration: none; 
   }
 }
@@ -128,11 +128,11 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $white;
-  background: #002420;
+  background: #006358;
 }
 ::selection {
   color: $white;
-  background: #002420;
+  background: #006358;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -197,7 +197,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: #002420;
+  color: #006358;
   cursor: pointer;
   font-family: 'Literata', serif;
   font-weight: 700;
@@ -230,14 +230,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #002420;
+    color: #006358;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: #002420;
+      color: #006358;
     }
   }
 }
