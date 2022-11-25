@@ -73,7 +73,7 @@ p {
 }
 
 a {
-  color: #006358;
+  color: #037A68;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -122,17 +122,17 @@ img {
 
 .date {
   font-style: italic;
-  color: #002420;
+  color: #037A68;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
   color: $white;
-  background: #006358;
+  background: #037A68;
 }
 ::selection {
   color: $white;
-  background: #006358;
+  background: #037A68;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -230,14 +230,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #006358;
+    color: #037A68;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: #006358;
+      color: #037A68;
     }
   }
 }
