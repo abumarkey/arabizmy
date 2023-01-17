@@ -25,7 +25,9 @@ Fascynujące dzieło brytyjskiego [badacza](https://kfcris.com/en/researcher/21)
 ### _A History of Arab Peoples_ - Albert Hourani
 
 Obszerna publikacja libańskiego [historyka](https://mesana.org/awards/category/albert-hourani-book-award/albert-hourani-biographical-sketch). W naprawdę wyczerpujący sposób (edycja z 2013 ma ok. 600 stron!) przedstawia historię całego regionu MENA, nadając zarówno kontekst do czasów proroka Mahometa, aż do drugiej połowy XX wieku. [więcej na goodreads](https://www.goodreads.com/book/show/854790.A_History_of_the_Arab_Peoples)
- 
+
+### _Routledge Political Handbook of Persian Gulf_ - Mehran Kemrava
+Wyjątkowo szczegółowa analiza historii politycznej państw Zatoki Perskiej, uporządkowana według różnych kontekstów - od relacji regionalnych, do podziałów społecznych i polityki wewnętrznej. Nie zatrzymuje się przy tym na ostatnich kilku dekadach, cofając się m. in. do obecności Imperium Osmańskiego w XIX wieku i wcześniej. [więcej na goodreads](https://www.goodreads.com/book/show/57091466-routledge-handbook-of-persian-gulf-politics)
 
 ## Język arabski 
 
