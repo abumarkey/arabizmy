@@ -30,6 +30,10 @@ Obszerna publikacja libańskiego [historyka](https://mesana.org/awards/category/
 
 Wyjątkowo szczegółowa analiza historii politycznej państw Zatoki Perskiej, uporządkowana według różnych kontekstów - od relacji regionalnych, do podziałów społecznych i polityki wewnętrznej. Nie zatrzymuje się przy tym na ostatnich kilku dekadach, cofając się m. in. do obecności Imperium Osmańskiego w XIX wieku i wcześniej. Autorem jest [profesor](https://www.mehrankamrava.com/) na katarskim oddziale uniwersytetu Georgetown. [więcej na goodreads](https://www.goodreads.com/book/show/57091466-routledge-handbook-of-persian-gulf-politics)
 
+### _Butterfly: from Refugee to Olympian_ - Yusra Mardini 
+
+Obowiązkowa lektura dla każdego Europejczyka. Otwiera oczy na nadużycia oraz nieludzkie traktowanie, jakich doświadczyli uchodźcy szukający bezpieczeństwa w Europie. _Butterfly_ opowiada dwóch sióstr, którym się udało. Względnie szczęśliwe zakończenie - Sara Mardini [mierzy się](https://www.polityka.pl/tygodnikpolityka/swiat/2201432,1,gorzka-historia-sarah-mardini-obronczyni-uchodzcow-czy-przestepczyni.read?src=mt) z absurdalnymi zarzutami za pomoc uchodźcom w Grecji - nie może jednak odwrócić naszej uwagi od tego, że siostry Mardini oraz inni uchodźcy spotkali się z rasizmem oraz nieludzkim traktowaniem ze strony tzw. cywilizowanego świata w imię źle rozumianego "publicznego bezpieczeństwa". [goodreads](https://www.goodreads.com/book/show/36743077-butterfly)
+
 ## Język arabski 
 
 Od początku licencjatu (2019) uczę się j. arabskiego. W międzyczasie korzystałem z szeregu różnych podręczników różnej jakości. Poniżej przedstawiam te, które faktycznie pomagają mi w opanowaniu tego fascynującego języka. Kolejność, również i tu, jest przypadkowa. 
