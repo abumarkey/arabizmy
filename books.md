@@ -30,9 +30,9 @@ Obszerna publikacja libańskiego [historyka](https://mesana.org/awards/category/
 
 Wyjątkowo szczegółowa analiza historii politycznej państw Zatoki Perskiej, uporządkowana według różnych kontekstów - od relacji regionalnych, do podziałów społecznych i polityki wewnętrznej. Nie zatrzymuje się przy tym na ostatnich kilku dekadach, cofając się m. in. do obecności Imperium Osmańskiego w XIX wieku i wcześniej. Autorem jest [profesor](https://www.mehrankamrava.com/) na katarskim oddziale uniwersytetu Georgetown. [więcej na goodreads](https://www.goodreads.com/book/show/57091466-routledge-handbook-of-persian-gulf-politics)
 
-### _Butterfly: from Refugee to Olympian_ - Yusra Mardini 
+### _Butterfly: from Refugee to Olympian_ - Jusra Mardini 
 
-Obowiązkowa lektura dla każdego Europejczyka. Otwiera oczy na nadużycia oraz nieludzkie traktowanie, jakich doświadczyli uchodźcy szukający bezpieczeństwa w Europie. _Butterfly_ opowiada dwóch sióstr, którym się udało. Względnie szczęśliwe zakończenie - Sara Mardini [mierzy się](https://www.polityka.pl/tygodnikpolityka/swiat/2201432,1,gorzka-historia-sarah-mardini-obronczyni-uchodzcow-czy-przestepczyni.read?src=mt) z absurdalnymi zarzutami za pomoc uchodźcom w Grecji - nie może jednak odwrócić naszej uwagi od tego, że siostry Mardini oraz inni uchodźcy spotkali się z rasizmem oraz nieludzkim traktowaniem ze strony tzw. cywilizowanego świata w imię źle rozumianego "publicznego bezpieczeństwa". [goodreads](https://www.goodreads.com/book/show/36743077-butterfly)
+Źle czuję się mówiąc, że *podobała* mi się ta książka. Jest świetnie napisana - pochłonąłem ją w jeden weekend. Ukazuje przy tym plagę nieszczęść i krzywd, której doświadczają uchodźcy w poszukiwaniu bezpieczeństwa. Dlatego ważne jest, by była lekturą każdego Europejczyka. Historia sióstr Mardini otwiera oczy na krzywdy, jakich wciąż doznają uchodźcy w imieniu naszego błędnie rozumianego bezpieczeństwa. Jak podkreśla Jusra, uchodźcy to ludzie i nie wybrali sobie bycia uchodźcami. Jest im to narzucone przez czynniki poza ich kontrolą. Zasługują na godne traktowanie. [więcej na goodreads](https://www.goodreads.com/user/show/140893117-abumarkey)
 
 ## Język arabski 
 
