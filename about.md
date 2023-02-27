@@ -10,7 +10,7 @@ Interesuję się historią najnowszą oraz sprawami społeczno-politycznymi Świ
 
 _Arabizmy_ [powstały](https://abumarkey.github.io/arabizmy/poczatek/) by zapełnić lukę w wiedzy Polaków na temat naszego bliskiego sąsiedztwa. Stereotypy przesłaniają nam prawdę o Bliskim Wschodzie, choć ma niesłychany wpływ na europejską rzeczywistość. Jest również regionem z własną sprawczością, historiami i tożsamościami. 
 
-Gdy nie pracuję nad _Arabizmami_, uczę się języków oraz robię zdjęcia. Mówię płynnie po polsku, angielsku i czesku, oraz po arabsku i niemiecku na poziomie średniozaawanzowanym. Zdjęcia udostępniam na [Behance](https://www.behance.net/marekfronc/).
+Gdy nie pracuję nad _Arabizmami_, uczę się języków oraz robię zdjęcia. Mówię płynnie po polsku, angielsku i czesku, oraz po arabsku i niemiecku na poziomie średniozaawanzowanym. Zdjęcia udostępniam na [Behance](https://www.behance.net/marekfronc/). Mówię również o Bliskim Wschodzie po angielsku, na [YpuTube](https://www.youtube.com/@abumarkey). 
 
 ### kontakt
 
