@@ -4,13 +4,11 @@ title: o autorze
 permalink: /about/
 ---
 
-Nazywam się Marek Fronc i jestem absolwentem studiów bliskowschodnich (UJ, 2022). Mój licencjat dotyczy militaryzacji nacjonalizmów w Arabii Saudyjskiej oraz Zjednoczonych Emiratach Arabskich. Mieszkam w Bahrajnie, gdzie przed studiami skończyłem liceum. Przeżyłem też doświadczenie z dziennikarstwem - przez kilka lat zajmowalem się dziennikarstwem technologicznym, załapałem się na studia dziennikarskie i współpracę z Gazetą Wyborczą. 
+Nazywam się Marek Fronc i jestem orientalistą. W 2022 roku ukończyłem studia bliskowschodnie na UJ. Po studiach wróciłem do Bahrajnu, gdzie skończyłem liceum. 
 
-Interesuję się przede wszystkim historią najnowszą Bliskiego Wschodu. Jestem również zafascynowany relacjami społecznymi oraz wpływem na nie polityki. Stąd tyle uwagi poświęcam dyskursom nacjonalistycznym, ale nie ograniczam się do nich; w ramach Festiwalu Studiów Azjatyckich miałem szansę przedstawić [historię](https://www.youtube.com/watch?v=ST6vbuUlQ8E) połowu pereł w Zatoce Perskiej oraz [sytuację](https://abumarkey.github.io/arabizmy/zydzi-bahrajn-zatoka-perska) żydów w Bahrajnie. 
+Interesuję się historią najnowszą oraz sprawami społeczno-politycznymi Świata Arabskiego - szczególnie Zatoki Perskiej. Swój licencjat poświęciłem militaryzacji nacjonalizmów w Arabii Saudyjskiej i ZEA. 
 
-Poświęcam się też nauce arabskiego (i niemieckiego) oraz [fotografii](https://instagram.com/abumarkey) mobilnej. Więcej na mój temat możesz przeczytać [tu](https://abumarkey.github.io/) i [tu](https://abumarkey.github.io/arabizmy/poczatek/). 
-
-Niniejszy blog powstał bo uwielbiam dzielić się wiedzą, zaś ta w Polsce dotycząca Bliskiego Wschodu jest ograniczona. Arabizmy to miejsce, dzięki któremu mogę was informować o tym szalenie ciekawym i ważnym regionie. Uważam, że czytelnika _może_ to zainteresować. 
+_Arabizmy_ [powstały](https://abumarkey.github.io/arabizmy/poczatek/), bo wiedza Polaków o Bliskim Wschodzie jest wciąż niewielka. Stereotypy przysłaniają nam prawdę o regionie, który ma własną tożsamość i sprawczość. 
 
 ### kontakt
 
