@@ -8,9 +8,9 @@ Nazywam się Marek Fronc i jestem orientalistą. W 2022 roku ukończyłem studia
 
 Interesuję się historią najnowszą oraz sprawami społeczno-politycznymi Świata Arabskiego - szczególnie Zatoki Perskiej. Swój licencjat poświęciłem militaryzacji nacjonalizmów w Arabii Saudyjskiej i ZEA. 
 
-Arabizmy [powstały](https://abumarkey.github.io/arabizmy/poczatek/) by zapełnić lukę w wiedzy Polaków na temat naszego bliskiego sąsiedztwa. Stereotypy przesłaniają nam prawdę o Bliskim Wschodzie, choć ma niesłychany wpływ na europejską rzeczywistość. Jest również regionem z własną historią, tożsamością i sprawczością. 
+_Arabizmy_ [powstały](https://abumarkey.github.io/arabizmy/poczatek/) by zapełnić lukę w wiedzy Polaków na temat naszego bliskiego sąsiedztwa. Stereotypy przesłaniają nam prawdę o Bliskim Wschodzie, choć ma niesłychany wpływ na europejską rzeczywistość. Jest również regionem z własną sprawczością, historiami i tożsamościami. 
 
-Gdy nie pracuję nad Arabizmami, uczę się języków oraz robię zdjęcia. Mówię płynnie po polsku, angielsku i czesku, oraz po arabsku i niemiecku na poziomie średniozaawanzowanym. Zdjęcia udostępniam na [Behance](https://www.behance.net/marekfronc/).
+Gdy nie pracuję nad _Arabizmami_, uczę się języków oraz robię zdjęcia. Mówię płynnie po polsku, angielsku i czesku, oraz po arabsku i niemiecku na poziomie średniozaawanzowanym. Zdjęcia udostępniam na [Behance](https://www.behance.net/marekfronc/).
 
 ### kontakt
 
