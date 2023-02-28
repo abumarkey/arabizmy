@@ -49,3 +49,7 @@ Tytuł odnosi się wszak do poziomu średniozaawansowanego, natomiast poświęca
 ### _Arabic Learning Resources_
 
 Anonimowy student arabskiego z USA zebrał materiały do nauki języka oraz umieścił je na prostej, minimalistycznej stronie. Na stronie znajdują się zasoby dotyczące gramatyki, a ja osobiście używam obszernej [listy](https://arabic.desert-sky.net/vocab.html) słownictwa, które autor podzielił tematycznie. Ten sposób pozwala na łatwiejsze przyswojenie słownictwa dot. wielu zagadnień, od podstawowych zwrotów, do geografii, mediów i polityki oraz technologii i pracy. [Strona główna Arabic learning resources](https://arabic.desert-sky.net/index.html)
+
+### Easy Arabic News
+
+_EAN_ to wiadomości ze świata pisane prostym arabskim dla uczących się arabskiego. Autorem jest Syryjczyk pracujący jako tłumacz. Poziom języka zaczyna się od A2 (początkujący). Zdania są proste, słowa zwokalizowane by ułatwić czytanie, a poniżej znajduje się krótki słownik.  [strona główna](https://www.easyarabicnews.com/)
