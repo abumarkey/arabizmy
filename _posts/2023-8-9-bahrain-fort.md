@@ -7,7 +7,7 @@ Fort Bahrajn (قلعة البحرين) to jeden z najstarszych budynków w Bahra
 
 Fort jest wyjątkowym miejscem na mapie Bliskiego Wschodu. Jak podaje [UNESCO](https://whc.unesco.org/en/list/1192), był on zamieszkały nieprzerwanie przez 4500 lat. Dzięki położeniu w centralnej Zatoce Perskiej, port przy Forcie Bahrajn stał się kluczowym elementem antycznego szlaku handlowego między Mezopotamią a Doliną Indusu, a od III do XVI wieku n.e., również między Morzem Śródziemnym a Chinami. 
 
-Kompleks dzieli się na dwie strefy. Starsza, położona bliżej morza, to oryginalny fort z III wieku p.n.e. Nowsze zabudowania znajdują na niewielkim wzniesieniu i wg. UNESCO powstały w XVI wieku. Zalesione tereny znajdujące się wokół zabudowań uchowały się w prawie niezmienionej formie od czasów starożytnych. 
+Kompleks dzieli się na dwie strefy. Starsza, położona bliżej morza, to oryginalny fort z III tysiąclecia p.n.e. Nowsze zabudowania znajdują na niewielkim wzniesieniu i wg. UNESCO powstały w XVI wieku. Zalesione tereny znajdujące się wokół zabudowań uchowały się w prawie niezmienionej formie od czasów starożytnych. 
 
 Pozostałości wykopane przez archeologów wskazują, że część kompleksu stanowił pałac dla dygnitarzy. Świadczą o tym przede wszystkim ślady dużej sali dla gości podobnej do tych znanych z mezopotamskich pałaców oraz rozbudowany system toalet. Na jego terenie znajdował się również teren przeznaczony na pochówki i świątynia. 
 
