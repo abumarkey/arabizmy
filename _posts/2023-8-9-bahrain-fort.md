@@ -3,9 +3,7 @@ layout: post
 title: 4300 lat Fortu Bahrajn
 ---
 
-Fort Bahrajn (قلعة البحرين) to jeden z najstarszych budynków w Bahrajnie. Powstał 2300 lat przed naszą erą i był stolicą i głównym portem cywilizacji Dilmunu. 
-
-Cywilizacja ta, opisana w Eposie o Gilgameszu, [mogła](https://archive.org/details/sumerianstheirhi00samu/page/148/mode/) stanowić inspirację dla historii o ogrodzie Eden. Potem fortyfikacje były wykorzystywane przez [Kasytów](https://pl.wikipedia.org/wiki/Kasyci), Greków i Portugalczyków jako siedziba w trakcie okupacji Bahrajnu. Ci ostatni opuścili Bahrajn w XVI wieku, gdy władzę przejęło imperium perskie.  
+Fort Bahrajn (قلعة البحرين) to jeden z najstarszych budynków w Bahrajnie. Powstał 2300 lat przed naszą erą i był stolicą oraz głównym portem morskim cywilizacji Dilmunu. Cywilizacja ta, w wersji z Eposu o Gilgameszu, [stanowiła](https://archive.org/details/sumerianstheirhi00samu/page/148/mode/) prawdopodobnie inspirację dla historii o ogrodzie Eden. Fortyfikacje były wykorzystywane również przez [Kasytów](https://pl.wikipedia.org/wiki/Kasyci), Greków i Portugalczyków jako siedziba w trakcie okupacji Bahrajnu. Ci ostatni opuścili Bahrajn w XVI wieku, gdy władzę przejęło imperium perskie.  
 
 Fort jest wyjątkowym miejscem na mapie Bliskiego Wschodu. Jak podaje [UNESCO](https://whc.unesco.org/en/list/1192), był on zamieszkały nieprzerwanie przez 4500 lat. Dzięki położeniu w centralnej Zatoce Perskiej, port przy Forcie Bahrajn stał się kluczowym elementem antycznego szlaku handlowego między Mezopotamią a Doliną Indusu, a od III do XVI wieku n.e., również między Morzem Śródziemnym a Chinami. 
 
