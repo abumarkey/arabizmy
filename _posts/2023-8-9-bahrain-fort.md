@@ -13,9 +13,9 @@ Kompleks dzieli się na dwie strefy. Starsza, położona bliżej morza, to orygi
 
 Pozostałości wykopane przez archeologów wskazują, że część kompleksu stanowił pałac dla dygnitarzy. Świadczą o tym przede wszystkim ślady dużej sali dla gości podobnej do tych znanych z mezopotamskich pałaców oraz rozbudowany system toalet. Na jego terenie znajdował się również teren przeznaczony na pochówki i świątynia. 
 
-Na terenie Fortu Bahrajn pozostały również ślady wielokulturowego społeczeństwa. Nie zachowały się ślady lokalnego języka pisanego, archeologowie odkryli natomiast inskrypcje w języku greckim, akadyjskim, aramejskim oraz południowoarabskim. Pozostawione materiały oraz tereny zielone wskazują, że społeczność mieszkająca na tym terenie zajmowała się głównie rolnictwem, w tym produkcją miodu daktylowego. Madbasa, gdzie produkowało się ten słodzik, znajduje się w starszej części kompleksu. 
+Na terenie Fortu Bahrajn pozostały również ślady wielokulturowego społeczeństwa. Nie zachowały się ślady lokalnego języka pisanego, archeologowie odkryli natomiast inskrypcje w języku greckim, akadyjskim, aramejskim oraz południowoarabskim. Pozostawione materiały oraz tereny zielone wskazują, że społeczność mieszkająca na tym terenie zajmowała się głównie rolnictwem, w tym produkcją miodu daktylowego. Madbasa, gdzie produkowano ten słodzik, znajduje się w starszej części kompleksu. 
 
-[Fort Bahrajn](https://goo.gl/maps/HW5eCP674tvhhtyP8) jest dostępny dla zwiedzających. Obok znajduje się Muzeum Fortu Bahrajn, otwarte w 2008, oraz kawiarnia z widokiem na morze. Poniższe zdjęcia pochodzą z mojego własnego archiwum :) 
+[Fort Bahrajn](https://goo.gl/maps/HW5eCP674tvhhtyP8) jest dostępny dla zwiedzających. W 2005 roku został wpisany na Listę Światowego Dziedzictwa UNESCO. Obok znajduje się Muzeum Fortu Bahrajn, otwarte w 2008, oraz kawiarnia z widokiem na morze. Poniższe zdjęcia pochodzą z mojego własnego archiwum :) 
 
 ![](https://i.postimg.cc/SxzF3hLZ/20230113-153728977-i-OS.jpg)
 ![](https://i.postimg.cc/vHTd794w/20230113-153729247-i-OS.jpg)
