@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5000 lat Fortu Bahrajn
+title: 4300 lat Fortu Bahrajn
 ---
 
 Fort Bahrajn (قلعة البحرين) to jeden z najstarszych budynków w Bahrajnie. Powstał 2300 lat przed naszą erą i był stolicą i głównym portem cywilizacji Dilmunu. 
