@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Najkrótszy egzamin w moim życiu: prawo jazdy w Bahrajnie 
+title: Najkrótszy egzamin w moim życiu - prawo jazdy w Bahrajnie
 ---
 
 Cały kurs jest tu również o wiele krótszy i prostszy niż w Polsce, co wiele tłumaczy. Panuje w Bahrajnie bardzo niska kultura jazdy. Powszechne jest używanie telefonów w samochodzie, a także nagłe zmiany pasów oraz nieutrzymywanie dystansu do innych pojazdów. Pojęcie płynnej jazdy w ogóle tu nie funkcjonuje. 
