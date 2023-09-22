@@ -34,6 +34,10 @@ Wyjątkowo szczegółowa analiza historii politycznej państw Zatoki Perskiej, u
 
 Źle czuję się mówiąc, że *podobała* mi się ta książka. Jest świetnie napisana - pochłonąłem ją w jeden weekend. Ukazuje przy tym plagę nieszczęść i krzywd, której doświadczają uchodźcy w poszukiwaniu bezpieczeństwa. Dlatego ważne jest, by była lekturą każdego Europejczyka. Historia sióstr Mardini otwiera oczy na krzywdy, jakich wciąż doznają uchodźcy w imieniu naszego błędnie rozumianego bezpieczeństwa. Jak podkreśla Jusra, uchodźcy to ludzie i nie wybrali sobie bycia uchodźcami. Jest im to narzucone przez czynniki poza ich kontrolą. Zasługują na godne traktowanie. [więcej na goodreads](https://www.goodreads.com/user/show/140893117-abumarkey)
 
+### _Jezus umarł w Polsce_ - Mikołaj Grynberg
+
+Najważniejsza książka dla każdego szanującego się Polaka. Nasze państwo maltretuje ludzi w naszym imieniu. Dziesiątki ludzi zmarły, a setki wciąż są zaginione - w momencie publikacji książki zaginionych jest ponad 340. Polska zrzuciła wszelkie pozory humanitaryzmu łamiąc migrantom kości i zostawiając ich na śmierć w puszczy w środku zimy. Nic nie robiąc, zostawiamy straumatyzowanych ludzi na pastwę polskich i białoruskich siepaczy. Próbujemy zatrzymać migrację w wyjątkowo nieefektowny i morderczy sposób - migracja to naturalny element ludzkości. [więcej na goodreads](https://www.goodreads.com/book/show/156300861-jezus-umar-w-polsce)
+
 ## Język arabski 
 
 Od początku licencjatu (2019) uczę się j. arabskiego. W międzyczasie korzystałem z szeregu różnych podręczników różnej jakości. Poniżej przedstawiam te, które faktycznie pomagają mi w opanowaniu tego fascynującego języka. Kolejność, również i tu, jest przypadkowa. 
