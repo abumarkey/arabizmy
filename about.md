@@ -16,4 +16,4 @@ Gdy nie pracuję nad _Arabizmami_, uczę się języków oraz robię zdjęcia. M�
 
 email: marek.fronc@proton.me · [twitter](https://twitter.com/arabizmy) · [facebook](https://www.facebook.com/arabizmy) · [mastodon](https://pol.social/@arabizmy)
 
-<center><img src="https://i.postimg.cc/0N2VRbhh/D146074-E-0-C75-434-C-8-B13-F627-C0382682.png" alt="self-portrait" width="300" /></center>
+<center><img src="https://github.com/abumarkey/arabizmy/blob/master/images/selfie%20circle%20Nov%202023.png" alt="self-portrait" width="300" /></center>
