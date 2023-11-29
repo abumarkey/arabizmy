@@ -4,9 +4,9 @@ layout: post
 ---
 Symulacja [przeprowadzona](https://www.bbc.com/news/science-environment-67522413) przez arabską redakcję BBC oraz naukowców środowiskowych dowodzi, że trzy emirackie pola naftowe stanowią dodatkowe źródło zanieszczenia w Abu Zabi i Dubaju - mimo, że znajdują się setki kilometrów w głąb morza. 
 
-Średnie roczne [stężenie PM2.5](https://www.thenationalnews.com/uae/environment/2022/09/20/explained-how-much-of-a-problem-is-air-pollution-in-the-uae/) w powietrzu w Dubaju to 41 μg/m3. Maksymalna dopuszczalna dawka to według WHO 5 μg/m3. W momencie pisania tego tekstu zanieczyszczenie powietrza w Dubaju [jest porównywalne](https://www.iqair.com/world-air-quality-ranking) do tego w największych polskich miastach. Przemysł i motoryzacja są największym źródłem zanieczyszczeń. 
+Średnie roczne [stężenie PM2.5](https://www.thenationalnews.com/uae/environment/2022/09/20/explained-how-much-of-a-problem-is-air-pollution-in-the-uae/) w powietrzu w Dubaju to 41 μg/m3. Maksymalna dopuszczalna dawka to według WHO 5 μg/m3. W momencie pisania tego tekstu zanieczyszczenie powietrza w Dubaju [jest porównywalne](https://www.iqair.com/world-air-quality-ranking) do tego w największych polskich miastach. Przemysł i motoryzacja są największym źródłem brudu w powietrzu. 
 
-Zjednoczone Emiraty Arabskie zakazały rutynowego flaringu gazowego dwie dekady temu, ale - jeśli wierzyć zdjęciom satelitarnym - stostują to praktykę do dziś.
+Zjednoczone Emiraty Arabskie zakazały rutynowego flaringu gazowego dwie dekady temu, ale - jeśli wierzyć zdjęciom satelitarnym - stostują go do dziś.
 
 _Flaring_ Jest codzienną praktyką w całej Zatoce Perskiej. Jest to spalanie nadmiaru gazu, który zbiera się podczas wydobywania ropy naftowej. Są dwa rodzaje flaringu: nie-rutynowy i rutynowy.  
 
