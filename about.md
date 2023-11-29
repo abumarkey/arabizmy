@@ -13,6 +13,6 @@ _Arabizmy_ [powstały](https://abumarkey.github.io/arabizmy/poczatek/) by zapeł
 Gdy nie pracuję nad _Arabizmami_, uczę się języków i robię zdjęcia. Mówię po polsku, czesku, angielsku (płynnie) oraz po niemiecku i arabsku (średniozaawansowany). Zdjęcia udostępniam na [Behance](https://www.behance.net/marekfronc/). O Bliskim Wschodzie mówię też po angielsku na [YouTube](https://www.youtube.com/@abumarkey). 
 ### kontakt
 
-email: marek.fronc@proton.me · [twitter](https://twitter.com/arabizmy) · [facebook](https://www.facebook.com/arabizmy) · [mastodon](https://pol.social/@arabizmy)
+email: marek.fronc@proton.me · [facebook](https://www.facebook.com/arabizmy) · [mastodon](https://pol.social/@arabizmy)
 
 <center><img src="https://raw.githubusercontent.com/abumarkey/arabizmy/master/images/selfie%20circle%20Nov%202023.png" alt="self-portrait" width="300" /></center>
