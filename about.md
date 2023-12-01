@@ -4,7 +4,7 @@ title: o autorze
 permalink: /about/
 ---
 
-Nazywam się [Marek Fronc](https://abumarkey.github.io/polski) i jestem orientalistą. W 2022 roku ukończyłem studia bliskowschodnie na UJ. Po studiach wróciłem do Bahrajnu, gdzie skończyłem liceum. 
+Nazywam się [Marek Fronc](https://abumarkey.github.io/polski) i jestem orientalistą. W 2022 roku ukończyłem studia bliskowschodnie na UJ. Liceum ukonczyłem w Bahrajnie, gdzie wróciłem po studiach by uczyć angielskiego. 
 
 Interesuję się historią najnowszą oraz sprawami społeczno-politycznymi Świata Arabskiego - szczególnie Zatoki Perskiej. Swój licencjat poświęciłem militaryzacji nacjonalizmów w Arabii Saudyjskiej i ZEA. 
 
