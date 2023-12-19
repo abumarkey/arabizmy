@@ -26,4 +26,4 @@ Zjednoczone Emiraty Arabskie grają o wiele wyższą stawkę. Współpraca gospo
 
 ---
 
-(*) كالجسر الواحد (jak jedno ciało) i (jedna umma) أمة  واحدة, oba na tle [Meczetu al-Aqsa](https://www.aljazeera.com/features/2017/12/6/al-aqsa-mosque-five-things-you-need-to-know);
+(*) كالجسد الواحد (jak jedno ciało) i (jedna umma) أمة  واحدة, oba na tle [Meczetu al-Aqsa](https://www.aljazeera.com/features/2017/12/6/al-aqsa-mosque-five-things-you-need-to-know);
