@@ -17,7 +17,7 @@ html {
 
 body {
   background: $white;
-  font: 18px 'Times New Roman', serif;
+  font-family: 18px 'Times New Roman', serif;
   font-weight: 500;
   color: #565656;
   text-align: justify;
@@ -30,6 +30,11 @@ body {
     background: #212121;
   }
 
+  h1, h2, h3, h4, h5, h6 {
+  font-family: 'Arial', sans-serif;
+  color: #eee;
+	}
+		
   a {
   color: #1aa478;
   text-decoration: none;
@@ -38,6 +43,9 @@ body {
     color: #66CDAA;
     text-decoration: none; 
   }
+	  .wrapper-footer {
+  background-color: #eee;
+	  }
 }
 
 .container {
