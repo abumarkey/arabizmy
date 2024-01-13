@@ -25,13 +25,11 @@ body {
 }
 
 @media (prefers-color-scheme: dark) {
-  body {
     color: #eee;
     background: #212121;
   }
 
   h1, h2, h3, h4, h5, h6 {
-  font-family: 'Arial', sans-serif;
   color: #eee;
 	}
 		
@@ -46,7 +44,6 @@ body {
 	  .wrapper-footer {
   background-color: #eee;
 	  }
-}
 
 .container {
   margin: 0 auto;
