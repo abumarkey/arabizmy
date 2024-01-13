@@ -17,7 +17,7 @@ html {
 }
 
 body {
-  background: #FFFFFF;
+  background: $white;
   font: 18px 'Times New Roman', serif;
   font-weight: 500;
   color: #565656;
@@ -36,6 +36,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Archivo', sans-serif;
   color: #565656;
   font-weight: 400;
+  text-align: center; 
 
   line-height: 1.5;
   margin: 1em 0 15px;
@@ -123,6 +124,7 @@ img {
   font-style: italic;
   font-family: 'Archivo', sans-serif;
   color: #1aa478;
+  font-size: 13px;
 }
 
 // Specify the color of the selection
