@@ -19,9 +19,9 @@ avatar: https://i.imgur.com/SbMnQo6.png
 footer-links:
   email: marek.fronc@pm.me
   facebook: arabizmy
-  instagram: abumarkey
+  instagram: # instagram
   rss: rss
-  twitter: arabizmy
+  twitter: # twitter
   youtube: # channel/<your_long_string> or user/<user-name>
 
 
