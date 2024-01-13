@@ -24,7 +24,9 @@ body {
   text-align: justify;
   line-height: 1.4;
   max-width: 560px;
-  width: 80%;
+  width: 80%; /* The width is 60%, by default */
+  margin-left: auto;
+  margin-right: auto;
 }
 
  .wrap {
