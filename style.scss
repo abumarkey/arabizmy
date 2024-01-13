@@ -47,6 +47,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.5;
   margin: 1em 0 15px;
   padding: 0;
+  margin-bottom: 15px;
 
   @include mobile {
     line-height: 1.4;
@@ -132,6 +133,7 @@ img {
   color: #1aa478;
   font-size: 15px;
   text-align: center;
+  margin-top: 15px;
 }
 
 // Specify the color of the selection
@@ -284,6 +286,7 @@ nav {
     font-family: 'Helvetica Neue', sans-serif;
     font-size: 15px;
     text-align: center;
+    margin-top: 15px;
   }
 }
 
