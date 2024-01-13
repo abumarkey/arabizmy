@@ -121,7 +121,7 @@ img {
 }
 
 .date {
-  font-style: italic;
+  font-style: normal;
   font-family: 'Archivo', sans-serif;
   color: #1aa478;
   font-size: 15px;
@@ -251,7 +251,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 0px solid $white;
+  border-bottom: 1px solid $white;
 }
 
 .posts > .post:last-child {
@@ -277,13 +277,14 @@ nav {
     text-transform: uppercase;
     font-family: 'Archivo', sans-serif;
     font-size: 15px;
+    text-align: center;
   }
 }
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+  border-top: 1px solid #FFF;
+  border-bottom: 1px solid #FFF;
   background-color: #FFF;
 }
 
