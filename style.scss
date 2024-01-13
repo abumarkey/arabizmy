@@ -4,13 +4,7 @@
 //
 // IMPORTS
 //
-const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)");
 
-if (prefersDarkScheme.matches) {
-  document.body.classList.add("dark-theme");
-} else {
-  document.body.classList.remove("dark-theme");
-}
 
 @import "reset";
 @import "variables";
@@ -29,17 +23,6 @@ body {
   color: #565656;
   text-align: justify;
   line-height: 1.4;
-}
-
-body.dark-theme {
-  background: #121212;
-}
-body.dark-theme h1,
-body.dark-theme p {
-  color: #eee;
-}
-body.dark-theme a {
-  color: #1aa478;
 }
 
 h1, h2, h3, h4, h5, h6 {
