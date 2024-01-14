@@ -5,7 +5,7 @@
 // IMPORTS
 //
 
-
+@import url('/Archivo_Condensed-Light.ttf');
 @import "reset";
 @import "variables";
 /**************/
@@ -39,7 +39,7 @@ body {
       }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Helvetica Neue', sans-serif;
+  font-family: 'Archivo', sans-serif;
   color: #565656;
   font-weight: 300;
   text-align: center; 
@@ -129,7 +129,7 @@ img {
 
 .date {
   font-style: normal;
-  font-family: 'Helvetica Neue', sans-serif;
+  font-family: 'Archivo', sans-serif;
   color: #1aa478;
   font-size: 15px;
   font-weight: 300;
@@ -284,7 +284,7 @@ nav {
 
   .read-more {
     text-transform: uppercase;
-    font-family: 'Helvetica Neue', sans-serif;
+    font-family: 'Archivo', sans-serif;
     font-size: 300;
     font-size: 15px;
     text-align: center;
