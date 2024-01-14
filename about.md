@@ -1,7 +1,7 @@
 ---
 layout: page
 title: O autorze
-permalink: /ja/
+permalink: /about/
 ---
 
 <center><img src="https://raw.githubusercontent.com/abumarkey/arabizmy/master/images/selfie%20circle%20Nov%202023.png" alt="self-portrait" width="300" /></center>
