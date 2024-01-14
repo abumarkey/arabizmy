@@ -20,7 +20,8 @@ html {
   font-weight: 300;
   font-display: swap;
   src: local('Archivo Light'), local('Archivo-Light'),
-       url('/blob/master/Archivo-Light.ttf') format('tff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+          url('/blob/master/Archivo-Light.woff') format('woff');
+	  url('/blob/master/Archivo-Light.ttf') format('tff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 @font-face {
@@ -29,7 +30,8 @@ html {
   font-weight: 300;
   font-display: swap;
   src: local('Archivo Light Italic'), local('Archivo_Light-Italic'),
-       url('/blob/master/Archivo-LightItalic.ttf') format('tff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+          url('/blob/master/Archivo-LightItalic.woff') format('woff');
+	  url('/blob/master/Archivo-LightItalic.ttf') format('tff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 body {
