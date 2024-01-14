@@ -4,7 +4,6 @@
 //
 // IMPORTS
 //
-  @import url('/blob/master/Archivo_Condensed-Light.ttf');
 @import "reset";
 @import "variables";
 /**************/
@@ -14,6 +13,16 @@
 html {
   font-size: 100%;
 }
+
+@font-face {
+  font-family: 'Archivo';
+  font-style: light;
+  font-weight: 300;
+  font-display: swap;
+  src: local('Archivo Condensed'), local('Archivo-Condensed'),
+       url('https://github.com/abumarkey/arabizmy/blob/master/Archivo_Condensed-Light.ttf') format('tff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
 
 body {
   background: $white;
