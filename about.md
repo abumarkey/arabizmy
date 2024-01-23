@@ -16,4 +16,4 @@ Poza tym lubię uczyć się języków. Poza polskim i angielskim, znam również
 
 ### kontakt
 
-<center>email: marek.fronc@proton.me · [facebook](https://www.facebook.com/arabizmy) · [mastodon](https://pol.social/@arabizmy)</center>
+email: marek.fronc@proton.me · [facebook](https://www.facebook.com/arabizmy) · [mastodon](https://pol.social/@arabizmy)
