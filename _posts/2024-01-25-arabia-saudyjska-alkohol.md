@@ -7,7 +7,7 @@ W dzielnicy dyplomatycznej Rijadu [otworzy się](https://www.reuters.com/world/m
 
 Alkohol będą mogli kupić jedynie nie-muzułmańscy dyplomaci po rejestracji przez aplikację w telefonie oraz otrzymaniu kodu dostępu od saudyjskiego MSZ. Planowany jest również miesięczny limit zakupów. 
 
-Odejście od kompletnej, narzuconej odgórnie abstynencji jest elementem szerszej liberalizacji Arabii Saudyjskiej. Mohammad bin Salman, książę koronny i _de facto_ władca, stawia na odejście od ropy naftowej oraz przekształcenie kraju w regionalnego lidera biznesu, sportu i turystyki. To zaś nie obejdzie się bez zwabienia osób z innych kręgów kulturowych, szczególnie z bogatych części świata. 
+Odejście od kompletnej, narzuconej odgórnie abstynencji jest elementem szerszej liberalizacji Arabii Saudyjskiej. Mohammad bin Salman, książę koronny i _de facto_ władca, [stawia](https://abumarkey.github.io/arabizmy/saudi-nacjonalizm/) na odejście od ropy naftowej oraz przekształcenie kraju w regionalnego lidera biznesu, sportu i turystyki. To zaś nie obejdzie się bez zwabienia osób z innych kręgów kulturowych, szczególnie z bogatych części świata. 
 
 Nie jest wykluczone, choć też niepotwierdzone, że konsumpcja alkoholu będzie legalizowana stopniowo, tak aby z jednej strony zachęcać obcokrajowców do przyjazdu, ale jednocześnie nie narzucać terapii szokowej lokalnym muzułmanom. 
 
