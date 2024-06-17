@@ -1,0 +1,34 @@
+---
+title: Fantazmaty Prezydenta
+layout: post
+---
+
+
+Fantazmaty prezydenta 
+O tym jak koszulka ilustruje teorie spiskowe tunezyjskiego prezydenta, oraz o kulturze politycznej Tunezji ostatnich lat. 
+
+Mark Zuckerberg świętował w tym roku czterdzieste urodziny. Z tej okazji z Billem Gatesem, innym technologicznym magnatem, zrobił sobie zdjęcie w miniaturze swojego akademika z czasów Harvardu. Na sobie miał zaś koszulkę z napisem "Carthago delenda est". Po łacinie zdanie to oznacza "Kartagina jest zniszczona" i jest skrótem wypowiedzi rzymskiego senatora Kato Starszego. Kato znany był z tego, że każde swoje wystąpienie w senacie kończył deklaracją "a poza tym uważam, że Kartaginę należy zniszczyć". Osobiście uczestniczył w II Wojnie Punickiej i był zagorzałym przeciwnikiem Imperium Kartagińskiego. 
+
+Zdjęcie to, oczywiście udostępnione na Facebooku, rozsierdziło tunezyjskich internautów. W przeciągu kilku godzin, na tym samym Facebooku wykwitły teorie, że Zuckerberg sygnalizował w ten sposób plany destabilizacji Tunezji, a zatem też władzy samego autokraty, Kaisa Saeda. Pojawiły się oczywiście oskarżenia o syjonizm, arabski odpowiednik kolaboracji z komunistyczną bezpieką. 
+
+Ostatnie kilka lat to upowszechnienie teorii spiskowych w Tunezji. Gdy w Tunezji zaczęli się pojawiać czarnoskórzy migranci podróżujący do Europy, zaostrzyła się ksenofobiczna retoryka prezydenta Saeda. W lutym zeszłego roku wypalił on, że są oni symptomem "czarnego syjonizmu", to znaczy ich celem jest wysiedlenie rodowitych arabskich Tunezyjczyków i zastąpienie ich kolonistami z Afryki subsaharyjskiej. Przyczynkiem tego jest oczywiście zachodni neokolonializm, gdyż Zachód nigdy nie porzucił potrzeby zarządzania Afryką. 
+
+Innymi słowy, Kais Saed [uważa](https://newlinesmag.com/reportage/tunisias-president-gives-life-to-a-zionism-conspiracy-theory/), że zachodnie mocarstwa spiskują by _zafrykanizować_ to afrykańskie społeczeństwo (sic!). Jest to przeniesienie żywcem [Teorii Wielkiego Zastąpienia](https://oko.press/teoria-wielkiego-przemieszczenia-czy-bialych-ludzi-zastapia-imigranci) znanego ze środowiska zachodnich skrajnie prawicowych środowisk, według których za wyimaginowanym genocydem białych stoją oczywiście Żydzi i liberalne elity. 
+
+Skąd jednak Said wytrzasnął pomysły tak odczepione od rzeczywistości? Otóż, nie sam. Od miesięcy Facebooka zalewał nimi szef pewnej partii kanapowej i kontroler jakości. Sofien Ben Sghaier, bo o nim mowa, przewodniczy Tunezyjskiej Partii Nacjonalistycznej i aktywnie uczestniczy w mediach społecznościowych. Głowę państwa dotknęła zatem ta sama przypadłość co wiele zwykłych obywateli zamkniętych w domu podczas pandemii, którzy znużeni i sfrustrowani kolejnymi lockdownami zaczęli radykalizować się przez internet. Said od początku swoich rządów prowadził narrację o głębokim wyczyszczeniu państwa z korupcji i kumoterstwa, a stąd naturalnym krokiem wydaje się syndrom oblężonej twierdzy i teorie spiskowe rodem z PiS, AfD i 4Chana. 
+
+Postępuje jednocześnie autokratyzacja życia politycznego Tunezji. Kais Saed przejął władzę w 2019 roku na fali niezadowolenia społecznego post-rewolucyjną Tunezją. Dwa lata później dokonał puczu: odwołał rząd i zawiesił parlament, rozpoczynając zarządzenie przez dekrety oraz wprowadził godzinę policyjną. Wkrótce zaostrzył kurs wobec oponentów politycznych faktycznych i wymyślonych, w tym organizacji pozarządowych i związków zawodowych, niezależnych sędziów oraz dziennikarzy. 
+
+W maju br. zamaskowani mężczyźni aresztowali np. prawniczkę Sonię Dahmani. Jej przestępstwo? Wypowiedź w telewizji. Gdy podczas wywiadu dziennikarz stwierdził, że czarni imigranci chcą ostatecznie zmienić demografię Tunezji, Dahmani z przekąsem odparła "o jakimż to wspaniałym kraju mówimy? O tym, z którego połowa młodych chce wyjechać?"
+
+Wielu Tunezyjczyków chce opuścić kraj z braku perspektyw i jest to [niezaprzeczalny fakt](https://newlinesmag.com/reportage/tunisias-security-forces-are-supposed-to-stop-migration-instead-theyre-fueling-the-flight-of-many/). Tunezyjskie służby stwierdziły jednak, że jej wypowiedź stanowi publikowanie fake newsów. Od 2022 roku [grozi za to](https://newlinesmag.com/spotlight/if-carthage-is-destroyed-it-wont-be-at-the-hands-of-mark-zuckerberg/) zaś do 10 lat więzienia. 
+
+Począwszy od 2021, prezydent paranoik przeprowadza czystki. Aresztował kilku liderów partii opozycyjnych, oskarżając ich o spiski i terroryzm. W trakcie przesłuchań wielu z nich było pytanych o kontakty z zagranicznymi dyplomatami czy badaczami naukowymi. Władze insynuują w ten sposób, że kontakty z obcokrajowcami mogą być uznane za spiskowanie z zagranicznymi mocarstwami. 
+
+Kais Said podwarza przy tym niezawisłość sądownictwa. Gdy w 2023 aresztowana została grupa opozycyjnych polityków, Said wprost przykleił im łatkę terrorystów. [Ostrzegł](https://www.hrw.org/news/2023/02/24/tunisia-wave-arrests-targets-critics-and-opposition-figures) również, że „ktokolwiek oczyści ich z zarzutów, jest po ich stronie”. Sędziowie mają zatem bać się wydawać wyroki niezgodne z linią pałacu prezydenckiego. Prezydent nie jest zresztą gołosłowny, bo w więzieniu siedzi cały szereg nieprawomyślnych sędziów, a sobie samemu nadał prawo nadzorowania działań prokuratury. 
+
+W tym kontekście dochodzimy do [aresztowania](https://bydgoszcz.wyborcza.pl/bydgoszcz/7,48722,31010278,polski-turysta-trafil-do-wiezienia-w-tunezji-chcial-tylko-zobaczyc.html#S.embed_article-K.C-B.1-L.1.zw) polskiego turysty w Tunisie. Nieumundurowani policjanci zgarnęli go z centrum miasta po tym jak sfotografował hotel, w którym prawdopodobnie zatrzymała się delegacja związana z wojną w Palestynie. Fotografia budynku była przez to rzekomo zabroniona, a w związku z trwającym od 2015 stanem wyjątkowym, niemożliwe jest też uwiecznianie protestujących i policjantów; turysta zapewnia, że nie miał o tym pojęcia. Prawnik [zauważa](https://bydgoszcz.wyborcza.pl/bydgoszcz/7,48722,31062884,polski-turysta-zostal-zwolniony-z-wiezienia-w-tunezji-ale-nie.html), że na miejscu nie było żadnej demonstracji ani umundurowanej policji. Proces trwa - Daniel wyszedł z aresztu, ale nie może na razie opuszczać kraju. 
+
+W 2015 roku doszło do zamachów terrorystycznych, co znacząco uderzyło w przemysł turystyczny. Służby mundurowe faktycznie są zatem obecne w miejscach publicznych by przeciwdziałać kolejnym atakom. To jednak niebezpieczny koktail, gdy dochodzą do tego politycy podkręcający napięcie i paranoiczny strach przed wszystkim co obce. Symptomem tego jest nadgorliwość i aresztowanie turystów za fotografię hoteli. 
+
+Co na to może turysta? Przede wszystkim, zorientować się w sytuacji politycznej kraju, który odwiedza. Przykład Daniela pokazuje, że polityka się nami interesuję, nawet gdy my nie interesujemy się polityką. Rzeczy błache mogą być istotne. 
