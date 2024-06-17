@@ -3,8 +3,6 @@ title: Fantazmaty Prezydenta
 layout: post
 ---
 
-
-Fantazmaty prezydenta 
 O tym jak koszulka ilustruje teorie spiskowe tunezyjskiego prezydenta, oraz o kulturze politycznej Tunezji ostatnich lat. 
 
 Mark Zuckerberg świętował w tym roku czterdzieste urodziny. Z tej okazji z Billem Gatesem, innym technologicznym magnatem, zrobił sobie zdjęcie w miniaturze swojego akademika z czasów Harvardu. Na sobie miał zaś koszulkę z napisem "Carthago delenda est". Po łacinie zdanie to oznacza "Kartagina jest zniszczona" i jest skrótem wypowiedzi rzymskiego senatora Kato Starszego. Kato znany był z tego, że każde swoje wystąpienie w senacie kończył deklaracją "a poza tym uważam, że Kartaginę należy zniszczyć". Osobiście uczestniczył w II Wojnie Punickiej i był zagorzałym przeciwnikiem Imperium Kartagińskiego. 
