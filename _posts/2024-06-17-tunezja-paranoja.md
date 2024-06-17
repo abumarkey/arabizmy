@@ -29,4 +29,4 @@ W tym kontekście dochodzimy do [aresztowania](https://bydgoszcz.wyborcza.pl/byd
 
 W 2015 roku doszło do zamachów terrorystycznych, co znacząco uderzyło w przemysł turystyczny. Służby mundurowe faktycznie są zatem obecne w miejscach publicznych by przeciwdziałać kolejnym atakom. To jednak niebezpieczny koktail, gdy dochodzą do tego politycy podkręcający napięcie i paranoiczny strach przed wszystkim co obce. Symptomem tego jest nadgorliwość i aresztowanie turystów za fotografię hoteli. 
 
-Co na to może turysta? Przede wszystkim, zorientować się w sytuacji politycznej kraju, który odwiedza. Przykład Daniela pokazuje, że polityka się nami interesuję, nawet gdy my nie interesujemy się polityką. Rzeczy błache mogą być istotne. 
+Co na to może turysta? Przede wszystkim, zorientować się w sytuacji politycznej kraju, który odwiedza. Przykład Daniela pokazuje, że polityka się nami interesuje, nawet gdy my nie interesujemy się polityką. Rzeczy błache mogą być istotne. 
