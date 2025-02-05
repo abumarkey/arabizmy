@@ -3,7 +3,9 @@ layout: post
 title: Isa Town, Bahrajn
 ---
 
-Isa Town to dzielnica na przedmieściach, _miasto_ w dużej mierze klasy średniej. Gdybyście pomyśleli o podróżowaniu po Bahrajnie komunikacją miejską, co odradzam, najpewniej na chwilę się tu zatrzymacie - przy stadionie Khalify znajduje się pętla autobusowa. Najwygodniejszą metodą transportu jest natomiast samochód, choć wymaga stalowych nerwów. Podróż autobusem jest jednak zdecydowanie dłuższa niż samochodem; dojazd do pracy zajmował mi ok. 30 minut samochodem, zaś autobusem prawie godzinę. Mieszkając na przedmieściach jeszcze dalszych niż Isa Town musiałem też doliczać kilkanaście minut czekania na autobus. Wypożyczalni samochodów jest w Bahrajnie mnóstwo. 
+Isa Town to dzielnica na przedmieściach, _miasto_ w dużej mierze klasy średniej. Gdybyście pomyśleli o podróżowaniu po Bahrajnie komunikacją miejską, co odradzam, najpewniej na chwilę się tu zatrzymacie - przy stadionie Khalify znajduje się pętla autobusowa. 
+
+Najwygodniejszą metodą transportu jest natomiast samochód, choć wymaga stalowych nerwów. Podróż autobusem jest jednak zdecydowanie dłuższa niż samochodem; dojazd do pracy zajmował mi ok. 30 minut samochodem, zaś autobusem prawie godzinę. Mieszkając na przedmieściach jeszcze dalszych niż Isa Town musiałem też doliczać kilkanaście minut czekania na autobus. Wypożyczalni samochodów jest w Bahrajnie mnóstwo. 
 
 _Miasto Isy_, nazwane na cześć emira Isy bin Salmana, warto zobaczyć przede wszystkim ze względu na to, że wygląda inaczej niż wypieszczone pod turystów centru miasta/Manama. Tak wyglądają w Bahrajnie miejsca, gdzie na codzień mieszkają i pracują ludzie. Miasto jest nieco na wyrost, gdyż przy tej gęstości zaludnienia i braku przestrzeni między miastami i wsiami Bahrajnu, lepiej pasuje tu łatka dzielnicy. 
 
