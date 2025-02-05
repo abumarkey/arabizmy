@@ -20,7 +20,6 @@ Zdjęcia wykonałem w marcu 2024.
 ![IMG_8974](https://github.com/user-attachments/assets/ff46a614-651e-4fb9-baca-205e6e021fd3)
 ![IMG_8981](https://github.com/user-attachments/assets/1a4df6c0-f4cf-4f9d-ae2d-30b720acf42a)
 ![IMG_9009](https://github.com/user-attachments/assets/567adb12-2d48-4be1-87d5-58c37ec10e09)
-![IMG_8947](https://github.com/user-attachments/assets/7ab477a9-0d1c-473d-872d-7b08c6468fbd)
 ![IMG_9007](https://github.com/user-attachments/assets/83e40a68-593a-445f-91a2-ed1b1f900d77)
 ![IMG_8965-min](https://github.com/user-attachments/assets/6b01f7a6-ba74-4b96-88f1-7d0e38fa5335)
 ![IMG_8979-min](https://github.com/user-attachments/assets/32eec75a-6fee-433c-a1d7-63c5c8356f8e)
