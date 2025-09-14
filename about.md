@@ -11,7 +11,7 @@ Interesuję się przede wszystkim historią współczesną i sprawami społeczno
 
 Arabizmy [powstały](https://abumarkey.github.io/arabizmy/poczatek/) by zapełnić lukę w naszej wiedzy o bliskim sąsiedztwie. W dobie krzykliwych nagłówków, dezinformacji i agitacji, szczególnie istotne są przestrzenie spokojne i rzetelne. Takim są Arabizmy. Uważam też, że [polskiego czytelnika](https://dzialzagraniczny.pl/polskiego-czytelnika-to-nie-interesuje/) wiele zaciekawi, a małe zainteresowanie polskich mediów światem nam szkodzi. 
 
-Poza tym lubię uczyć się języków. Poza polskim i angielskim, znam również czeski, a w mniejszym stopniu arabski i niemiecki. 
+Poza tym lubię uczyć się języków. Poza polskim i angielskim znam również czeski, arabski i niemiecki. Uczę się szwedzkiego, a innych [angielskiego](https://www.e-korepetycje.net/marekfronc/jezyk-angielski). Poza tym gram w gry i czytam książki. 
 
 ### kontakt
 
