@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Izrael atakuje obszar cywilny w Katarze
+title: Izrael atakuje Katar 
 ---
 
 We wtorek 9. września Izrael dokonał nalotu na osiedle w stolicy Kataru, w którym mieszkali członkowie Hamasu odpowiedzialni za negocjacje ds. wojny w Gazie. Atak spotkał się ze sprzeciwem królestw Zatoki Perskiej jako atak na suwerenne państwo, w dodatku na cywilny teren zabudowany - w pobliżu działa kilka szkół i ambasad. Zaistniała sytuacja bez precedensu: czołowy sojusznik USA na Bliskim Wschodzie zaatakował innego istotnego sojusznika USA w regionie. Co więcej, Izrael nie poczuwa się do skruchy, grożąc kolejnymi atakami. 
