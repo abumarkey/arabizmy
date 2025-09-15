@@ -3,7 +3,7 @@ layout: post
 title: Izrael atakuje Katar 
 ---
 
-We wtorek 9. września Izrael dokonał nalotu na osiedle w stolicy Kataru, w którym mieszkali członkowie Hamasu odpowiedzialni za negocjacje ds. wojny w Gazie. Atak spotkał się ze sprzeciwem królestw Zatoki Perskiej jako atak na suwerenne państwo, w dodatku na cywilny teren zabudowany - w pobliżu działa kilka szkół i ambasad. Zaistniała sytuacja bez precedensu: czołowy sojusznik USA na Bliskim Wschodzie zaatakował innego istotnego sojusznika USA w regionie. Co więcej, Izrael nie poczuwa się do skruchy, grożąc kolejnymi atakami. 
+We wtorek 9. września Izrael dokonał nalotu na osiedle w stolicy Kataru, w którym mieszkali członkowie Hamasu odpowiedzialni za negocjacje ds. wojny w Gazie. Atak spotkał się ze sprzeciwem królestw Zatoki Perskiej jako atak na suwerenne państwo, w dodatku na cywilny teren zabudowany - w pobliżu mieszkają też osoby niezwiązane z Hamasem, działa też kilka szkół i ambasad. Zaistniała sytuacja bez precedensu: czołowy sojusznik USA na Bliskim Wschodzie zaatakował innego istotnego sojusznika USA w regionie. Co więcej, Izrael nie poczuwa się do skruchy, grożąc kolejnymi atakami. 
 
 Po atakach z wtorku rząd Izraela zapowiedział, że jeśli Katarczycy nie rozprawią się z Hamasem na swoim terytorium, Izrael zrobi to za nich. W efekcie nalotu zginęło pięć osób, w tym syn głównego negocjatora Khalila al-Hayyi oraz katarski członek służb mundurowych. Najprawdopodobniej przeżyli jednak wszyscy ważni Hamasowcy, w tym al-Hayya. 
 
