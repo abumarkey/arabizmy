@@ -13,9 +13,9 @@ No właśnie: Izrael. Na ten moment nie jest jasne co oznacza ta uzgodniona wcze
 
 Musimy pamiętać, że relacje obu stron charakteryzuje nie tylko głęboka wzajmna niechęć, ale też całkowity brak zaufania. Izrael kilkukrotnie łamał już zawieszenia broni - ostatnio w marcu - a [atakiem na Katar](https://abumarkey.github.io/arabizmy/katar-izrael-atak/)  udowodnił jak niewiele wagi daje negocjacjom. 
 
-Swoją drogą, Trump przymusił w końcu Netanjahu, by ten oficjalnie przeprosił Katar, a zdjęcie z tego wydarzenia to coś niesamowitego: 
+Swoją drogą, Trump przymusił w końcu Netanjahu, by ten oficjalnie przeprosił Katar. Opublikowano poniższe zdjęcie:
 
-![](https://pbs.twimg.com/media/G2J-WauW8AAd1lw?format=jpg&name=large)
+![israel trump phone call qatar](https://github.com/user-attachments/assets/190a45a2-0890-4364-baea-fb76414f2aef)
 
 Na ile jednak można zaufać Hamasowi, że faktycznie będzie _nie_ próbował się ociągać by pozostać dłużej u steru? Grupa rządzi Strefą Gazy nieprzerwanie od 2006, kiedy zdobyła władzę siłą w wyniku zbrojnego konfliktu z Fatahem (ugrupowanie u steru Zachodniego Brzegu). Hamas prowadzi rządy twardej ręki i ma krótki cyngiel wobec przeciwników wewnętrznych. Co więcej, cieszy się dwucyfrowym poparciem w sondażach jako siła, która jako jedyna otwarcie stawia opór okupantowi. Trzeba by dużej wiary, by zaufać, że tak po prostu odpuści. 
 
