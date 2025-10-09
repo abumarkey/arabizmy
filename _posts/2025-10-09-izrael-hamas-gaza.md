@@ -29,12 +29,12 @@ Jednym z nich to oddanie władzy przez Hamas, który otwarcie przynaje, że chce
 
 Na koniec pozostawię was z kilkoma wypowiedziami i faktami. Czy to wypowiedzi i efekty działań rozsądnych ludzi? Co zrobilibyśmy, gdyby dotyczyły nas? 
 
-* 80-90% miasta zostało zniszczone. >!Gaza po dwóch latach wojny [link](https://www.bbc.co.uk/news/resources/idt-217c6a28-4a90-4d47-a91c-13113a7dc7db)
-* 79% społeczeństwa nie widzi problemu w klęsce głodu i cierpieniu ludności cywilnej >!Sondaż społeczeństwa izraelskiego nt. wojny w Gazie, sierpień 2025 [link](https://www.dw.com/en/how-do-israelis-see-gaza-war-and-palestinian-suffering/a-73600368)
-* "są jak naćpane karaluchy w butelce" >!Generał Rafael Eitan o Arabach, 1983 [link](https://www.nytimes.com/2004/11/24/obituaries/rafael-eitan-75-exgeneral-and-chief-of-staff-in-israel-dies.html)
-* "Zwalczamy ludzkie zwierzęta" >!Minister Obrony Joav Galant, październik 2023 [link](https://x.com/AJEnglish/status/1711376122674303191)
-* "Odpowiedzialny jest cały naród." >!Prezydent Izak Hercog, o ataku 07.10.23, październik 2023 [link](https://www.huffpost.com/entry/israel-gaza-isaac-herzog_n_65295ee8e4b03ea0c004e2a8)
-* "Co takiego strasznego w zrozumieniu, że cały naród to twój wróg?" >!poseł Ayelet Shaked, 2014 [link](https://www.aljazeera.com/news/2017/10/4/video-israelis-back-killing-transfer-of-palestinians)
-* "Arabowie to robaki.[...] Te robaki atakują nas od 100 lat." >!poseł Yehiel Hazan w Knesecie, 2004 [link](https://www.aljazeera.com/news/2004/12/13/israeli-mp-arabs-are-worms)
+* 80-90% miasta zostało zniszczone. — Gaza po dwóch latach wojny [link](https://www.bbc.co.uk/news/resources/idt-217c6a28-4a90-4d47-a91c-13113a7dc7db)
+* 79% społeczeństwa nie widzi problemu w klęsce głodu i cierpieniu ludności cywilnej — Sondaż społeczeństwa izraelskiego nt. wojny w Gazie, sierpień 2025 [link](https://www.dw.com/en/how-do-israelis-see-gaza-war-and-palestinian-suffering/a-73600368)
+* "są jak naćpane karaluchy w butelce" — Generał Rafael Eitan o Arabach, 1983 [link](https://www.nytimes.com/2004/11/24/obituaries/rafael-eitan-75-exgeneral-and-chief-of-staff-in-israel-dies.html)
+* "Zwalczamy ludzkie zwierzęta" — Minister Obrony Joav Galant, październik 2023 [link](https://x.com/AJEnglish/status/1711376122674303191)
+* "Odpowiedzialny jest cały naród." — Prezydent Izak Hercog, o ataku 07.10.23, październik 2023 [link](https://www.huffpost.com/entry/israel-gaza-isaac-herzog_n_65295ee8e4b03ea0c004e2a8)
+* "Co takiego strasznego w zrozumieniu, że cały naród to twój wróg?" — poseł Ayelet Shaked, 2014 [link](https://www.aljazeera.com/news/2017/10/4/video-israelis-back-killing-transfer-of-palestinians)
+* "Arabowie to robaki.[...] Te robaki atakują nas od 100 lat." — poseł Yehiel Hazan w Knesecie, 2004 [link](https://www.aljazeera.com/news/2004/12/13/israeli-mp-arabs-are-worms)
 
 Dzisiejsze wydarzenia to jedna z niewielu rzeczy, którą wspólnie jednocześnie świętowali Izralczycy i Palestyńczycy: to przede wszystkim chwila wytchnienia. W tym kierunku należy działać. Czy powyższa lista do tego jakkolwiek pasuje?
