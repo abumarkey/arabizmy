@@ -3,7 +3,7 @@ layout: post
 title: Światełko pokoju
 ---
 
-Izrael oraz Hamas przystały na pierwszy etap planu Donalda Trumpa na rozwiązanie konfliktu w Gazie. Pierwszy etap oznacza wstrzymanie broni oraz wpuszczenie pomocy humanitarnej. Hamas ma uwolnić zakładników w przeciągu 72 godzin, a Izrael wypuścić palestyńskich więźniów i wycofować się do "wcześniej uzgodnionej linii" na terenie Strefy Gazy. 
+Izrael oraz Hamas przystały na pierwszy etap planu Donalda Trumpa na rozwiązanie konfliktu w Gazie. Oznacza to oznacza wstrzymanie broni oraz wpuszczenie pomocy humanitarnej. Hamas ma uwolnić zakładników w przeciągu 72 godzin, a Izrael wypuścić palestyńskich więźniów i wycofować się do "wcześniej uzgodnionej linii" na terenie Strefy Gazy. 
 
 I już tu pojawiają się problemy. Po pierwsze: Hamas nie może zlokalizować wszystkich zakładników. Wiadomo, że część nie żyje (Izrael szacuje, że ok. połowa z 48 pozostałych). Chaos wojny - ciągłe walki, zniszczenia i masowe migracje ludzi - sprawił, że palestyńska organizacja nie wie, gdzie są wszyscy, a właśnie tyle zobowiązała się uwolnić. Znalezienie każdego ciała wymaga teraz czasu, a to może zostać wykorzystane przez Izrael na szkodę zawieszenia broni jako ociąganie się przez Hamas. 
 
