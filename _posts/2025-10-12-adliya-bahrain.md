@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Adliya
+title: Adliya, Bahrajn
 ---
 
 Adliya lubi myśleć, że to bahrajńska bohema. 
