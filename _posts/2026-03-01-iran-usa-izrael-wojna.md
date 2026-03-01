@@ -18,7 +18,7 @@ Dodatkowy problem stanowi brak zorganizowanej opozycji. Często podnoszonym sygn
 
 Uczucia społeczne po arabskiej stronie Zatoki Perskiej można określić jako napięty spokój. Bahrajn aresztował 4 osoby, które publicznie chwaliły irańską agresję. MSW dodaje, że publikacja nagrań ataków grozi konsekwencjami prawnymi. Instytucje publiczne, banki, szkoły i uniwersytety oraz wiele firm przeszło na tryb pracy zdalnej. Regularne są wycia syren oraz hałas obrony przeciw-powietrznej. Wczoraj na stacjach paliw oraz w sklepach odnotowano zwiększony ruch. Dziś jest spokojnie, zwłaszcza na przedmieściach - oczekujemy dalszego rozwoju wydarzeń.
 
-<img width="1620" height="1080" alt="image" src="https://github.com/user-attachments/assets/566ac0ed-1d77-425f-a27d-ac7ad1a41388" />
+<img alt="dym tlący się z aatakowanej amerykańskiej bazy 5. floty, 28.02.26" src="https://github.com/user-attachments/assets/566ac0ed-1d77-425f-a27d-ac7ad1a41388" />
 _dym tlący się z aatakowanej amerykańskiej bazy 5. floty, 28.02.26_ 
 
 Po ostrzale hotelu Crowne Plaza w centrum Manamy, ambasada USA zaleca, by unikać hoteli - potencjalnych celów. Wcześniej dron wleciał w inny wieżowiec w centrum. W świetle (niezweryfikowanych) relacji, że Amerykańscy obywatele mogą być celem ataków, ambasada nawołuje Amerykanów do trzymania się z daleka od wieżowców. Gości w hotelach poproszono o zejście z wyższych pięter do lobby lub budynki całkiem ewakuowano. Część osób wyjeżdża do znajomych, niektórzy zaś szukają szczęścia przekraczając granicę lądową z Arabią Saudyjską - most pozostaje otwarty. 
