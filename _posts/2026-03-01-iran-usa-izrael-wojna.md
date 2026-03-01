@@ -27,7 +27,7 @@ W Bahrajnie nikt nie zginął, choć jest kilkoro rannych. Odłamek przechwycone
 
 # Domino nacisku
 
-Iran skupia w swoich atakach na amerykańskiej infrastrukturze wojskowej. Odpowiada jednak dużo bardziej intensywnie niż miało to miejsce podczas wojny z Izraelem w czerwcu 2025, co wystawia na ryzyko również nas, cywili. Przede wszystkim reżim jest świadomy tego, że walczy o przetrwanie. Eskalacja ataków może stanowić zwiększenie nacisku na rządy arabskie regionu, by te z kolei usilniej nawoływały Donalda Trump i Netanjahu do zaprzestania walk. 
+Iran skupia w swoich atakach na amerykańskiej infrastrukturze wojskowej. Odpowiada jednak dużo bardziej intensywnie niż miało to miejsce podczas wojny z Izraelem w czerwcu 2025, co wystawia na ryzyko również nas, cywili. Przede wszystkim reżim jest świadomy tego, że walczy o przetrwanie. Eskalacja ataków może stanowić zwiększenie nacisku na arabskich sojuszników USA, by usilniej nawoływały Donalda Trump i Netanjahu do zaprzestania walk. 
 
 Po krwawej pacyfikacji protestów na przełomie grudnia i stycznia br., arabscy szejkowie ciężko pracowali nad Trumpem, by ten _nie_ dotrzymał swej obietnicy pomszczenia protestujących. Faktycznie można było odtrąbić sukces - do ataków dochodzi "dopiero" teraz, po nieudolnych próbach negocjacji. W przypadku wcześniejszych konfliktów można mówić o pewnej choreografii. Odwety Iranu stanowiły wcześniej formę zachowania twarzy, mającej na celu pokazać, że w razie ataku władza nie udaje, że nic się nie stało. Teheran starał się jednak nie przeginać i nie eskalować "za bardzo." Czy teraz również ktoś trzeźwy powie stop - zobaczymy. 
 
