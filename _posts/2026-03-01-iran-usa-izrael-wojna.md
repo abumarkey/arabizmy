@@ -2,7 +2,7 @@
 layout: post
 title: Wojna w Zatoce Perskiej. Domino nacisku
 ---
-USA wraz z Izraelem zaatakowały Iran w celu odsunięcia reżimu od władzy. Doprowadzają przy tym do destabilizacji regionu, nie mając żadnej gwarancji sukcesu. Pojawiają się pierwsze doniesienia, że [Trump](https://aje.news/p4rw7y?update=4352059) i [Iran](https://aje.news/p4rw7y?update=4351942) są otwarci na rozmowy.
+USA wraz z Izraelem zaatakowały Iran w celu odsunięcia reżimu od władzy. Doprowadzają przy tym do destabilizacji regionu, nie mając żadnej gwarancji sukcesu. Mimo wstępnych doniesień, że [Trump](https://aje.news/p4rw7y?update=4352059) i [Iran](https://aje.news/p4rw7y?update=4351942) są otwarci na rozmowy, amerykański prezydent żąda totalnej kapitulacji Iranu. 
 
 W Iranie miał miejsce szereg protestów anty oraz prorządowych; faktycznie wielu Irańczyków świętowało śmierć Ajatollaha Chamenejego. Nie ma jednak dowodów na to, by masowo powstawali teraz przeciw rządowi Republiki. Jest to pewnym logicznym następstwem tego, że muszą uciekać przed izraelskimi i amerykańskimi nalotami. Na dzień dzisiejszy nie ma możliwości wysondowania opinii publicznej, natomiast w regionie ogółem istnieje świadomość jak źle może potoczyć się polityka zmiany reżimu.
 
