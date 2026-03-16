@@ -21,8 +21,7 @@ Podobnie sprawy się mają w sąsiednich krajach. W Katarze początkowy szok [za
 
 Pamiętajmy, że ryzyko śmierci w irańskim nalocie pozostaje stosunkowo niewielkie, a dysproporcje ogromne: podczas gdy w krajach arabskich zginęło 18 osób, w Iranie USA i Izrael zabiły ponad 1300. Szacuje się, że ok. 3 miliony osób musiało opuścić swoje domy. Nie umniejsza to tragedii i emocjom po arabskiej stronie Zatoki Perskiej, natomiast różnica jest znaczna. Zdecydowana większość irańskich dronów i pocisków jest przechwytywana, co słyszymy zresztą każdego dnia - a ostatnio częściej co noc. 
 
-<iframe title="Shooting a cannon during Ramadan - Bahrain" width="560" height="315" src="https://peertube.cif.su/videos/embed/ps3f2QzJqyPQx3i14Xx2di" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
-
+<div style="position: relative; padding-top: 56.25%;"><iframe title="Shooting a cannon during Ramadan - Bahrain" width="100%" height="100%" src="https://peertube.cif.su/videos/embed/ps3f2QzJqyPQx3i14Xx2di?warningTitle=0" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
 _Wystrzał z armaty na przełamanie postu - Manama, Bahrajn, 15.03.26_
 
 Ludzie zadają pytanie jak dalej potoczy się wojna. Nikt nie potrafi znaleźć jednoznacznej odpowiedzi. To pozostaje istotnym zmartwieniem, zarówno dla podróżnych, którzy tu utknęli, jak i mieszkańców. Wojna to proces bardzo nieprzewidywalny, a próby przewidzenia w jakim kierunku pójdzie to wróżenie z fusów. 
