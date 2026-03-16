@@ -12,7 +12,7 @@ _Centrum handlowe i deptak The Avenues, Manama, Bahrajn - 15.03.26_
 
 Życie toczy się stosunkowo normalnie. Emocje pozostają napięte, ludzie starają się jednak zachować pozory normalności. Dzień w Bahrajnie przed zachodem słońca to w okresie Ramadanu standardowo pustka, natomiast wraz z zachodem słońce ulice zaczęły się zapełniać. City Center, największe centrum handlowe w kraju, doświadczyło podobnych tłumów co zawsze - gdy zaszło już słońce i ludzie przyszli zjeść. Kontynuuje się też tradycję strzelania z armat by wyznaczyć przełamanie postu.
 
-Ulice stoją tak samo zakorkowane jak przed wybuchem wojny. Wieżowce uszkodzone w trakcie nalotów wzbudzają przy tym dość upiorne uczucia; ze względu na cenzurę nie wolno ich jednak fotografować ani upubliczniać ich zdjęć. W związku z udostępnianiem zdjęć i nagrań ataków oraz zniszczeń władze Bahrajnu aresztowały ok. 10 osób, a ZEA ponad 40. Kontrast spokoju który panuje na bahrajńskiej ulicy oraz świadomość, że uszkodzenia wynikają z działań wojennych, a 300km dalej dokonuje się pożoga to wstrząsające uczucie. 
+Ulice stoją tak samo zakorkowane jak przed wybuchem wojny. Wieżowce uszkodzone w trakcie nalotów wzbudzają przy tym dość upiorne uczucia; ze względu na cenzurę nie wolno ich jednak fotografować ani upubliczniać ich zdjęć. W związku z udostępnianiem zdjęć i nagrań ataków oraz zniszczeń władze Bahrajnu aresztowały ok. 10 osób, a ZEA ponad 40. Kontrast między spokojem, który panuje na bahrajńskiej ulicy oraz świadomością, że uszkodzenia wynikają z działań wojennych, a 300km dalej dokonuje się pożoga to wstrząsające uczucie. 
 
 ![IMG_3397](https://github.com/user-attachments/assets/1856b4b4-4c82-4129-a9ba-65642fdb47b7)
 _Park przy The Avenues, naprzeciw World Trade Center, Manama, Bahrajn - 15.03.26_
