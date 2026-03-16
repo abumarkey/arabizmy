@@ -3,7 +3,7 @@ layout: post
 title: Nowa normalność. W cieniu wojny w Iranie
 ---
 
-W irańskich atakach na arabskie kraje Zatoki Perskiej zginęło do tej pory 18 osób. Ciągłe naloty rakiet i dronów - Arabia Saudyjska przechwyciła ich dziś 64 - nasuwa proste pytanie: czy w Zatoce Perskiej jest teraz bezpiecznie?
+W irańskich atakach na arabskie kraje Zatoki Perskiej zginęło do tej pory 18 osób. Ciągłe naloty rakiet i dronów - Arabia Saudyjska przechwyciła ich dziś 64 - nasuwają proste pytanie: czy w Zatoce Perskiej jest teraz bezpiecznie?
 
 Trzeci tydzień [wojny w Iranie](https://abumarkey.github.io/arabizmy/iran-usa-izrael-wojna/) przynosi kontynuacje dotychczasowych wydarzeń. USA i Izrael atakują cele wojskowe i cywilne na terenie Islamskiej Republiki, a ta odpowiada ogniem, wysyłając rakiety i drony na swoich arabskich sąsiadów. Teheran zapewnia, że jego celem jest jedynie amerykańska infrastruktura wojskowa, ale mija się z prawdą: w dzisiejszym ataku na dzielnicę al Bahyah Abu Dhabi (niedaleko lotniska) zginęła jedna osoba. Chwilę wcześniej irański dron wywołał pożar na lotnisku w Dubaju.
 
