@@ -14,8 +14,6 @@
     :root {
       --bg: #FAFAFA;
       --text: #262626;
-      --panel: #f4f4f4;
-      --main: #f4f4f4;
 	  --head: #262626;
     }
 
@@ -24,8 +22,6 @@
       :root {
         --bg: #262626;
         --text: #FAFAFA;
-        --panel: #262626;
-        --main: #262626;
 		--head: #E0E0E0;
       }
     }
@@ -38,7 +34,7 @@ body {
   font: 18px 'Times New Roman', serif;
   font-weight: 400;
   background: var(--bg);
-  color: var(--text);
+  text-color: var(--text);
   text-align: justify;
   line-height: 1.4;
   max-width: 560px;
