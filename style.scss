@@ -13,8 +13,10 @@
 
     :root {
       --bg: #FAFAFA;
-      --text: #262626;
-	  --head: #262626;
+      --text: #3B3B3B;
+	  --head: #3B3B3B;
+	  --link: #1aa478;
+    --link-hover: #66CDAA;
     }
 
     /* DARK MODE AUTOMATIC */
@@ -23,6 +25,8 @@
         --bg: #262626;
         --text: #FAFAFA;
 		--head: #E0E0E0;
+	    --link: #66CDAA;
+        --link-hover: #1aa478;
       }
     }
 
@@ -93,13 +97,13 @@ p {
 }
 
 a {
-  color: #66CDAA;
+  color: var(--link);
   text-decoration: none;
-	cursor: pointer;
-  &:hover, &:active {
-    color: #1aa478;
-    text-decoration: none; 
-  }
+}
+
+a:hover {
+  color: var(--link-hover);
+  text-decoration: none;
 }
 
 ul, ol {
@@ -318,6 +322,7 @@ footer {
   padding: 20px 0;
   text-align: center;
   font-size: 15px;
+  text-color: var(--text);
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
