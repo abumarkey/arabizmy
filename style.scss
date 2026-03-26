@@ -6,7 +6,7 @@
 //
 @import "reset";
 @import "variables";
- @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@300&display=swap');
 /**************/
 /* BASE RULES */
 /**************/
@@ -16,7 +16,7 @@
       --text: #3B3B3B;
 	  --head: #3B3B3B;
 	  --link: #1aa478;
-    --link-hover: #66CDAA;
+      --link-hover: #66CDAA;
     }
 
     /* DARK MODE AUTOMATIC */
@@ -38,7 +38,7 @@ body {
   font: 18px 'Times New Roman', serif;
   font-weight: 400;
   background: var(--bg);
-  text-color: var(--text);
+  color: var(--text);
   text-align: justify;
   line-height: 1.4;
   max-width: 560px;
@@ -94,6 +94,7 @@ h4 {
 
 p {
   margin: 15px 0;
+  color: var(--text);
 }
 
 a {
@@ -190,7 +191,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid;
+  border-bottom: 0px solid;
 	 color:var(--bg);
 
   @include mobile {
@@ -313,16 +314,15 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid;
-  border-bottom: 1px solid;
-  color:var(--bg);
+  border-top: 0px solid;
+  border-bottom: 0px solid;
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
   font-size: 15px;
-  text-color: var(--text);
+  color: var(--text);
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
