@@ -17,6 +17,7 @@
 	  --head: #3B3B3B;
 	  --link: #1aa478;
       --link-hover: #66CDAA;
+	   --date: #1aa478;
     }
 
     /* DARK MODE AUTOMATIC */
@@ -27,6 +28,7 @@
 		--head: #E0E0E0;
 	    --link: #66CDAA;
         --link-hover: #1aa478;
+		--date: #66CDAA;
       }
     }
 
@@ -148,7 +150,7 @@ img {
 .date {
   font-style: normal;
   font-family: 'Bricolage Grotesque', sans-serif;
-  color: #66CDAA;
+  color: var(--date);
   font-size: 15px;
   font-weight: 300;
   text-align: center;
@@ -261,7 +263,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #66CDAA;
+    color: var(--link);
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
