@@ -86,7 +86,6 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
 }
 
 p {
@@ -94,11 +93,11 @@ p {
 }
 
 a {
-  color: #1aa478;
+  color: #66CDAA;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #66CDAA;
+    color: #1aa478;
     text-decoration: none; 
   }
 }
@@ -144,7 +143,7 @@ img {
 .date {
   font-style: normal;
   font-family: 'Bricolage Grotesque', sans-serif;
-  color: var(--text);
+  color: #66CDAA;
   font-size: 15px;
   font-weight: 300;
   text-align: center;
@@ -257,7 +256,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #1aa478;
+    color: #66CDAA;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -276,7 +275,7 @@ nav {
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid;
-	 color:var(--bg);
+  color:var(--text);
 }
 
 .posts > .post:last-child {
@@ -287,7 +286,7 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid #1aa478;
+    border-left: 2px solid #66CDAA;
     padding: 0.1em 1em;
     color: #2F2E2E;
     font-size: 22px;
@@ -310,8 +309,8 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #FFF;
-  border-bottom: 1px solid #FFF;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
   color:var(--bg);
 }
 
