@@ -48,4 +48,4 @@ Błędem jest przy tym przedstawianie Islamskiej Republiki jako gołębia pokoju
 
 Donald Trump pozostaje zaś Donaldem Trumpem, a jego akolici równie zaślepieni co wcześniej - może to efekt ogromu [złota](https://www.theguardian.com/us-news/2025/sep/01/trump-oval-office-gold-before-after-decor-white-house-makeover) w Białym Domu. Nie widzą jednak, że wojny rozpoczętej dla zabawienia gawiedzi by zapomniała o pedofilli nie da się załatwić statusem na Facebooku.  
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/4RN7O1IR1zzTZs56FooiXK/video?utm_source=generator" width="624" height="351" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/4RN7O1IR1zzTZs56FooiXK/video?utm_source=generator" max-width="600" height="337" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
