@@ -63,21 +63,18 @@ body {
 }
 
 .highlight-note {
-  background-color: #ECF9F4;
-  color: #1D5945;
+  background-color: var(--highlight-bg);
+  color: var(--highlight-text);
   padding: 0.15em 0.35em;
   border-radius: 4px;
-  font-weight: 400;
 }
 
 .highlight-note a {
-  color: #339E7A;
-  text-decoration: none;
+  color: var(--highlight-link);
 }
 
 .highlight-note a:hover {
-  color: #287B5F;
-  text-decoration: none;
+  color: var(--highlight-link-hover);
 }
 
  .wrap {
