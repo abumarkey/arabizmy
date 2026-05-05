@@ -58,6 +58,13 @@ body {
         overflow: hidden;
       }
 
+hyperlink {
+	 border-radius: 15px 50px;
+	 background: #ECF9F4; 
+     color: #277C5C;
+     a color: var(--link);
+	 }
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Bricolage Grotesque', sans-serif;
   color: var(--head);
