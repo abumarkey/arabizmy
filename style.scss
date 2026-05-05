@@ -18,6 +18,12 @@
 	  --link: #1aa478;
       --link-hover: #66CDAA;
 	  --date: #1aa478;
+
+		  /* Highlight (light mode) */
+  --highlight-bg: #ECF9F4;
+  --highlight-text: #1D5945;
+  --highlight-link: #339E7A;
+  --highlight-link-hover: #287B5F;
     }
 
     /* DARK MODE AUTOMATIC */
@@ -29,6 +35,12 @@
 	    --link: #66CDAA;
         --link-hover: #1aa478;
 		--date: #66CDAA;
+
+		      /* Highlight (dark mode) */
+    --highlight-bg: #1F3A33;
+    --highlight-text: #CDEFE5;
+    --highlight-link: #66CDAA;
+    --highlight-link-hover: #1aa478;
       }
     }
 
