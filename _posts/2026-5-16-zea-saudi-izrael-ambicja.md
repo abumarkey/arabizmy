@@ -1,4 +1,3 @@
-<img width="1245" height="830" alt="IMG_2463" src="https://github.com/user-attachments/assets/80f640c1-1fd4-4556-8c79-07f463e3a7aa" />
 ---
 layout: post
 title: ZEA gra na siebie
