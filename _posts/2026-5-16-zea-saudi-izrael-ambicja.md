@@ -1,6 +1,6 @@
 ---
 layout: post
-tite: ZEA gra na siebie
+title: ZEA gra na siebie
 ---
 
 Premier Izraela [ogłosił](https://www.nytimes.com/2026/05/13/world/middleeast/netanyahu-uae-iran-war.html?unlocked_article_code=1.ilA.XcZd.MifChmcTmMvq&smid=url-share) wszem i wobec, że w tajemnicy odwiedził w marcu Zjednoczone Emiraty Arabskie, wprawiając ZEA w zakłopotanie. Oba kraje utrzymują stosunki dyplomatyczne i gospodarcze od 2020 roku, co nie cieszy się popularnością wśród lokalnej populacji. Abu Zabi prowadzi jednak odważną politykę zagraniczną. 
