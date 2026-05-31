@@ -28,10 +28,10 @@ Część zdjęć pochodzi z września 2025, a część ze stycznia 2023.
 <img alt="01162023121759" src="https://github.com/user-attachments/assets/19c6d9cf-a86a-4e8f-8a73-e1579d968bca" />
 <img alt="01162023121041" src="https://github.com/user-attachments/assets/b9fe943f-321b-47f6-a6de-e5e7e0db3a56" />
 <img alt="01162023115604" src="https://github.com/user-attachments/assets/a649b5a9-15e0-4eb0-a539-acba539c8807" />
-<img width="3530" height="2206" alt="01162023115752" src="https://github.com/user-attachments/assets/aaa58586-bec8-49d7-97f1-ae586b92a4e4" />
-<img width="3832" height="2395" alt="01162023115352" src="https://github.com/user-attachments/assets/c5e9b51b-2135-4c32-9cd7-2e4caeecb9a6" />
-<img width="3204" height="2003" alt="01162023114919" src="https://github.com/user-attachments/assets/bc3bc4a0-7273-4d66-a8dd-6a74d05353f4" />
-<img width="3009" height="1881" alt="01162023124638" src="https://github.com/user-attachments/assets/7d2db73c-ca54-4bb2-8ca3-993d785d5b47" />
+<img alt="01162023115752" src="https://github.com/user-attachments/assets/aaa58586-bec8-49d7-97f1-ae586b92a4e4" />
+<img alt="01162023115352" src="https://github.com/user-attachments/assets/c5e9b51b-2135-4c32-9cd7-2e4caeecb9a6" />
+<img alt="01162023114919" src="https://github.com/user-attachments/assets/bc3bc4a0-7273-4d66-a8dd-6a74d05353f4" />
+<img alt="01162023124638" src="https://github.com/user-attachments/assets/7d2db73c-ca54-4bb2-8ca3-993d785d5b47" />
 
 
 
