@@ -16,6 +16,20 @@
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
+  <script>
+document.addEventListener('contextmenu', event => {
+  event.preventDefault();
+});
+</script>
+
+  <script>
+document.addEventListener('dragstart', event => {
+  if (event.target.tagName === 'IMG') {
+    event.preventDefault();
+  }
+});
+</script>
+  
   <body>
     <div class="wrapper-masthead">
       <div class="container">
