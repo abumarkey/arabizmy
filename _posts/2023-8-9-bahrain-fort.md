@@ -15,13 +15,13 @@ Na terenie Fortu Bahrajn pozostały również ślady wielokulturowego społecze�
 
 [Fort Bahrajn](https://goo.gl/maps/HW5eCP674tvhhtyP8) jest dostępny dla zwiedzających. W 2005 roku został wpisany na Listę Światowego Dziedzictwa UNESCO. Obok znajduje się Muzeum Fortu Bahrajn, otwarte w 2008, oraz kawiarnia z widokiem na morze. Poniższe zdjęcia pochodzą z mojego własnego archiwum :) 
 
-![](https://i.postimg.cc/SxzF3hLZ/20230113-153728977-i-OS.jpg)
-![](https://i.postimg.cc/vHTd794w/20230113-153729247-i-OS.jpg)
-![](https://i.postimg.cc/D0j3kfYN/20230113-153729494-i-OS.jpg)
-![](https://i.postimg.cc/6Qrs6fmn/20230113-153730086-i-OS.jpg)
-![](https://i.postimg.cc/0NRRqBc9/20230113-153730690-i-OS.jpg)
-![](https://i.postimg.cc/CxZS0D0s/20230113-153730966-i-OS.jpg)
-![](https://i.postimg.cc/9QHhj6n6/20211230-111535828-i-OS.jpg)
-![](https://i.postimg.cc/ncgL9Sw2/20120204-145224000-i-OS.jpg)
-![](https://i.postimg.cc/WbkvCNXm/20120204-145350000-i-OS.jpg)
-![](https://i.postimg.cc/cL7N1Dqr/20210313-113408769-i-OS.jpg)
+<img src="https://i.postimg.cc/SxzF3hLZ/20230113-153728977-i-OS.jpg" alt="Photo" class="wide-image">
+<img src="https://i.postimg.cc/vHTd794w/20230113-153729247-i-OS.jpg" alt="Photo" class="wide-image">
+<img src="https://i.postimg.cc/D0j3kfYN/20230113-153729494-i-OS.jpg" alt="Photo" class="wide-image">
+<img src="https://i.postimg.cc/6Qrs6fmn/20230113-153730086-i-OS.jpg" alt="Photo" class="wide-image">
+<img src="https://i.postimg.cc/0NRRqBc9/20230113-153730690-i-OS.jpg" alt="Photo" class="wide-image">
+<img src="https://i.postimg.cc/CxZS0D0s/20230113-153730966-i-OS.jpg" alt="Photo" class="wide-image">
+<img src="https://i.postimg.cc/9QHhj6n6/20211230-111535828-i-OS.jpg" alt="Photo" class="wide-image">
+<img src="https://i.postimg.cc/ncgL9Sw2/20120204-145224000-i-OS.jpg" alt="Photo" class="wide-image">
+<img src="https://i.postimg.cc/WbkvCNXm/20120204-145350000-i-OS.jpg)" alt="Photo" class="wide-image">
+<img src="https://i.postimg.cc/cL7N1Dqr/20210313-113408769-i-OS.jpg" alt="Photo" class="wide-image">
