@@ -62,6 +62,12 @@ body {
   margin-right: auto;
 }
 
+img {
+  -webkit-user-drag: none;
+  user-select: none;
+  pointer-events: none;
+}
+
 .highlight-note {
   background-color: var(--highlight-bg);
   color: var(--highlight-text);
