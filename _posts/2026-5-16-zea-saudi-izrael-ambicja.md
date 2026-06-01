@@ -9,7 +9,7 @@ ZEA oficjalnie zaprzeczyły doniesieniom biura premiera Izraela, argumentując, 
 
 Co więcej, w wywiadzie dla mediów ambasador USA w Izraelu potwierdził, że kraj ten przekazał Emiratom systemy rakietowe Iron Dome, by wspomóc je w obronie przed atakami Iranu [wojnie](https://abumarkey.github.io/arabizmy/iran-wojna-co-dalej/) między USA, Izraelem, a Republiką Islamską. Mike Huckabee potwiedził w ten sposób doniesienia medialne, że wraz z uzbrojeniem do Emiratów przylecieli izraelscy żołnierze, by obsługiwać wyrzutnie. 
 
-<img alt="IMG_2463" src="https://github.com/user-attachments/assets/31a9f7d3-7b52-46be-af70-8436bf7f20f3" />
+<img alt="IMG_2463" src="https://github.com/user-attachments/assets/31a9f7d3-7b52-46be-af70-8436bf7f20f3" class="wide-image"/>
 _ulica w centrum Abu Zabi, ZEA - 06.11.25 - archiwum własne_
 
 Jest to pierwszy przypadek w historii, gdy Izrael wsparł wojskowo państwo arabskie. Fakt ten stoi w sprzeczności wobec wieloletniego arabskiego tabu jakim jest współpraca z Izraelem z pominięciem sprawy palestyńskiej. Poparcie wsród arabskich społeczeństw dla uznania państwa Izrael [utrzymuje się](https://abumarkey.github.io/arabizmy/palestyna/) na jednocyfrowym poziomie od lat. Sytuacji nie ratuje [polityka ludobójstwa](https://abumarkey.github.io/arabizmy/izrael-hamas-gaza/) i apartheidu, którą państwo żydowskie prowadzi wobec Palestyńczyków w Gazie i na Zachodnim Brzegu. 
