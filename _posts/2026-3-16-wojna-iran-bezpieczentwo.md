@@ -7,14 +7,14 @@ W irańskich atakach na arabskie kraje Zatoki Perskiej zginęło do tej pory 18 
 
 Trzeci tydzień [wojny w Iranie](https://abumarkey.github.io/arabizmy/iran-usa-izrael-wojna/) przynosi kontynuacje dotychczasowych wydarzeń. USA i Izrael atakują cele wojskowe i cywilne na terenie Islamskiej Republiki, a ta odpowiada ogniem, wysyłając rakiety i drony na swoich arabskich sąsiadów. Teheran zapewnia, że jego celem jest jedynie amerykańska infrastruktura wojskowa, ale mija się z prawdą: w dzisiejszym ataku na dzielnicę al Bahyah Abu Dhabi (niedaleko lotniska) zginęła jedna osoba. Chwilę wcześniej irański dron wywołał pożar na lotnisku w Dubaju.
 
-![IMG_3392](https://github.com/user-attachments/assets/31fd2220-8a12-4b4c-924a-5c7aa55695d3)
+<img src="https://github.com/user-attachments/assets/31fd2220-8a12-4b4c-924a-5c7aa55695d3" alt="Photo" class="wide-image">
 _Centrum handlowe i deptak The Avenues, Manama, Bahrajn - 15.03.26_
 
 Życie toczy się stosunkowo normalnie. Emocje pozostają napięte, ludzie starają się jednak zachować pozory normalności. Dzień w Bahrajnie przed zachodem słońca to w okresie Ramadanu standardowo pustka, natomiast wraz z zachodem słońce ulice zaczęły się zapełniać. City Center, największe centrum handlowe w kraju, doświadczyło podobnych tłumów co zawsze - gdy zaszło już słońce i ludzie przyszli zjeść. Kontynuuje się też tradycję strzelania z armat by wyznaczyć przełamanie postu.
 
 Ulice stoją tak samo zakorkowane jak przed wybuchem wojny. Wieżowce uszkodzone w trakcie nalotów wzbudzają przy tym dość upiorne uczucia; ze względu na cenzurę nie wolno ich jednak fotografować ani upubliczniać ich zdjęć. W związku z udostępnianiem zdjęć i nagrań ataków oraz zniszczeń władze Bahrajnu aresztowały ok. 10 osób, a ZEA ponad 40. Kontrast między spokojem, który panuje na bahrajńskiej ulicy oraz świadomością, że uszkodzenia wynikają z działań wojennych, a 300km dalej dokonuje się pożoga to wstrząsające uczucie. 
 
-![IMG_3397](https://github.com/user-attachments/assets/1856b4b4-4c82-4129-a9ba-65642fdb47b7)
+<img src="https://github.com/user-attachments/assets/1856b4b4-4c82-4129-a9ba-65642fdb47b7" alt="Photo" class="wide-image">
 _Park przy The Avenues, naprzeciw World Trade Center, Manama, Bahrajn - 15.03.26_
 
 Podobnie sprawy się mają w sąsiednich krajach. W Katarze początkowy szok [zaczął](https://www.bbc.com/news/videos/cp32gez414yo) już ustępować. W stolicy, Dosze, doszło do niewielu zniszczeń i - podobnie jak w Bahrajnie - miasto zaczęło z powrotem się zapełniać ludźmi. W Katarze nikt nie zginął. 
