@@ -29,7 +29,7 @@ Zachwiana pozycja Najwyższego Przywódcy nie oznacza jednak, że Republika Isla
 
 Z kim zatem negocjować? To pytanie zadają sobie, a przynajmniej powinny, obie strony. Irańczycy kwestionują czy team Flip i Flap, znany oficjalnie jako Kushner i Witkoff, ma faktycznie autorytet do decydowania o czymkolwiek w świetle tego, że w trakcie rozmów dzwonili do Trumpa ok. 12 razy (gdy ten oglądał zawody MMA). Podobnie wypowiadają Amerykanie mówiąc o wewnętrznych walkach w irańskim establishmencie.
 
-![](https://s.yimg.com/ny/api/res/1.2/CyETJ7wyfw4LowLP2z2RuA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE2MDA7aD0xMDcwO2NmPXdlYnA-/https://media.zenfs.com/en/jerusalem_post_articles_818/3f317ecd8587f71cb05eda34faa9f9b4)
+<img src="https://s.yimg.com/ny/api/res/1.2/CyETJ7wyfw4LowLP2z2RuA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE2MDA7aD0xMDcwO2NmPXdlYnA-/https://media.zenfs.com/en/jerusalem_post_articles_818/3f317ecd8587f71cb05eda34faa9f9b4" alt="Photo" class="wide-image">
 _Jared Kushner i Steve Witkoff w Białym Domu, 29.09.25, REUTERS/KEVIN LAMARQUE_
 
 Tajemnicą Poliszynela jest fakt, że w Teheranie działają dwie frakcje. Jedna z nich jest bardziej otwarta na negocjacje, a druga obrała kurs zdecydowanie bardziej wojowniczy, dążący do kontynuowania wojny. Pozycja opcji konsewratywnej zdaje się przybierać na sile. Przekazy medialne są coraz bardziej zatwardziałe i przebija się przez nie obraz negocjacji jako oznaki słabości. Twardogłowi twierdzą, że Iran bombardowano za każdym razem gdy siadał do negocjacji z USA. Faktycznie, aż do lutego tego roku odbywały się rozmowy obu państw za pośrednictwem Omanu. Podobnie sytuacja wyglądała w zeszłym roku - również negocjowano, a do dwunastodniowej wojny i tak doszło. 
