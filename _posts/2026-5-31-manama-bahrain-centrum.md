@@ -9,7 +9,7 @@ Typowy dla regionu minimalizm terenów zielonych to element, który kontrastuje 
 
 Położenie bezpośrednio przy Manama Souq, czołowej atrakcji turystycznej stolicy, oraz ultra-nowoczesnym centrum handlowo-biznesowym Bahrain Bay stanowi mikrokosmos segregacji społecznej, jaka panuje w Bahrajnie. Kosmopolityczna arabska i biała elita funkcjonuje równolegle, ale osobno od klasy robotniczej i średniej niższej. Po pracy, ci pierwsi wracają do swoich wieżowców, willi i zamkniętych osiedli. Ci drudzy mieszkają i pracują tu.
 
-Jest to przy tym dzielnica bardzo różnorodna: mieszają się tu 3 wynania: jak reszta kraju, Manama usiana jest meczetami. Jest tu też jednak wiele mataamów (مأتم) gdzie zbierają się szyici, oraz szereg kościołów, świątyń hinduistycznych oraz [synagoga](https://abumarkey.github.io/arabizmy/zydzi-bahrajn-zatoka-perska/). 
+Jest to przy tym dzielnica bardzo różnorodna: mieszają się tu 3 wynania: jak reszta kraju, Manama usiana jest meczetami. Jest tu też jednak wiele maatamów (مأتم) gdzie zbierają się szyici, oraz szereg kościołów, świątyń hinduistycznych oraz [synagoga](https://abumarkey.github.io/arabizmy/zydzi-bahrajn-zatoka-perska/). 
 
 Część zdjęć pochodzi z września 2025, a część ze stycznia 2023. 
 
