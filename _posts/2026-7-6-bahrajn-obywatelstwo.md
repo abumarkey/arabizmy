@@ -3,7 +3,7 @@ layout: post
 title: Bahrajn - paszport jako broń
 ---
 
-69 Bahrajńczyków straciło obywatelstwo, bo ich rząd [uznał](http://www.nytimes.com/2026/06/17/world/middleeast/bahrain-iran-citizenship-expulsions.html), że to zdrajcy. Najmłodszaz tych osób to niemowle. Ich grzech? Gloryfikowali lub sympatyzowali z wrogimi działaniami Iranu.
+69 Bahrajńczyków straciło obywatelstwo, bo ich rząd [uznał](http://www.nytimes.com/2026/06/17/world/middleeast/bahrain-iran-citizenship-expulsions.html), że to zdrajcy. Najmłodsza z tych osób to niemowlę. Ich grzech? Gloryfikowali lub sympatyzowali z wrogimi działaniami Iranu.
 
 Brzmi groźnie, ale w przynajmniej niektórych przypadkach oznacza publikację nagrań irańskich ataków na Bahrajnu. Od początku konfliktu Królestwo [aresztowało](https://abumarkey.github.io/arabizmy/wojna-iran-bezpieczentwo/) ok. 10 osób, które udostępniły w sieci nagrania irańskich rakiet, dronów lub zniszczeń, których dokonały. Czy faktycznie jest to wychwalanie agresji wrogiego państwa? 
 
