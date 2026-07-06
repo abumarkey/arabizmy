@@ -79,18 +79,23 @@ img {
   pointer-events: none;
 }
 
-.highlight-note {
+.highlight-box {
   background-color: var(--highlight-bg);
   color: var(--highlight-text);
-  padding: 0.15em 0.35em;
-  border-radius: 4px;
+
+  max-width: 42rem;      /* or 70%, 650px, etc. */
+  margin: 2rem auto;     /* centers the box */
+  padding: 1.25rem 1.5rem;
+
+  border-radius: 6px;
+  text-align: justify;
 }
 
-.highlight-note a {
+.highlight-box a {
   color: var(--highlight-link);
 }
 
-.highlight-note a:hover {
+.highlight-box a:hover {
   color: var(--highlight-link-hover);
 }
 
