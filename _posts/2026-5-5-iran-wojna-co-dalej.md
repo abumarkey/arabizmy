@@ -21,7 +21,7 @@ Amerykański sukces można podsumować jednym zdaniem: wydali miliardy dolarów 
 
 Nieobecność w przestrzeni publicznej dobrowadziła do szeregu spekulacji. Z jednej strony, jest to awans w bardzo specyficznych warunkach czasu wojny, które ograniczają możliwości nowego przywódcy do kształtowania autorytetu na własnych warunkach. Z drugiej strony, pogłoski dotyczące stanu jego zdrowia kwestionują w ogóle, czy jest w ogóle w stanie rządzić krajem.
 
-<center><span class="highlight-box">PRZECZYTAJ TEŻ: <a href="https://abumarkey.github.io/arabizmy/wojna-iran-bezpieczentwo/">Wojna w Zatoce. Nowa normalność</a></span></center>
+<div class="highlight-box">PRZECZYTAJ TEŻ: <a href="https://abumarkey.github.io/arabizmy/wojna-iran-bezpieczentwo/">Wojna w Zatoce. Nowa normalność</a></div>
 
 ## Słowo roku: decentralizacja
 
