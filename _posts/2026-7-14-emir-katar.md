@@ -9,7 +9,7 @@ Emir objął władzę w bezkrwawym zamachu stanu w 1995, gdy obalił swojego ojc
 
 To nie obeszło sie bez echa w regionalnych stolicach. Już w 1996, Bahrajn, Arabia Saudyjska oraz Zjednoczone Emiraty Arabskie (ZEA) [próbowały](https://www.aljazeera.com/news/2018/3/12/al-jazeera-documents-bahrain-kings-role-in-foiled-1996-coup) doprowadzić do obalenia monarchy. Spiskowcy planowali przeprowadzić serię zamachów i sabotaży na terenie stolicy. Ich działania odkryto gdy bomba pod biurami urzędu imigracyjnego okazała sie niewybuchem. Fahd al-Maliki, jedna z kluczowych postaci w spisku, przyznał potem, że otrzymał ponad ćwierć miliona dolarów od uwczesnego księcia koronnego Bahrajnu. Książe ten, Hamad bin Isa Al-Chalifa, od 1999 rządzi Bahrajnem.
 
-<img alt="20150724_155354674_iOS" src="https://github.com/user-attachments/assets/2f62f823-c453-43a0-b78a-d138109bba5d" />
+<img alt="20150724_155354674_iOS" src="https://github.com/user-attachments/assets/2f62f823-c453-43a0-b78a-d138109bba5d" class="wide-image">
 
 _Souq Waqif, Doha, Katar - 24.07.2015 - materiały własne_
 
