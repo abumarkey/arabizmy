@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nie żyje był emir Kataru
+title: Nie żyje były emir Kataru
 ---
 
 Szejk Hamad bin Khalifa al-Thani miał 74 lata i rządził emiratem w czasach niesamowitego rozwoju gospodarczego. W 2013 przekazał władzę synowi, Tamimowi bin Hamadowi. Przyczyna śmierci pozostaje nieznana, choć tajemnicą poliszynela było słabe zdrowie władcy. W 2015 [przeszedł](https://www.theguardian.com/world/2015/dec/29/mystery-of-emergency-landings-of-qatari-royal-planes-in-switzerland) operację w Szwajcarii po złamaniu nogi.
