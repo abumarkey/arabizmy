@@ -3,7 +3,7 @@ layout: page
 title: O autorze
 permalink: /about/
 ---
-<center><img src="https://raw.githubusercontent.com/abumarkey/abumarkey.github.io/refs/heads/master/selfie%20circle.png" alt="self-portrait" width="300" /></center>
+<center><img src="https://raw.githubusercontent.com/abumarkey/arabizmy/refs/heads/master/IMG_4021-modified.png" alt="self-portrait" width="300" /></center>
 
 Arabizmy piszę ja - [Marek Fronc](https://abumarkey.github.io/polski). Jestem orientalistą, blogerem i fotografem. W 2022 ukończyłem studia bliskowschodnie na UJ, a potem uczyłem w Bahrajnie angielskiego.
 
