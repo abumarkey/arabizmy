@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bliski Wschód próbuje NATO 
+title: Bliski Wschód robi sobie NATO 
 ---
 
 Turcja, Pakistan i Arabia Saudyjska utworzyły sojusz obronny, którego podstawa przypomina do złudzenia artykuł 5. NATO: atak na jednego to atak na wszystkich. 
