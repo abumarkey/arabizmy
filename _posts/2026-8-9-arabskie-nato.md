@@ -14,9 +14,8 @@ Wszystkie trzy kraje zapewniają, że *Porozumienie o Wspólnej Obronie z Mekki*
 Nie dość, że zakończenie wojny jest ulotne jak humor i uwaga Trumpa, to jeszcze konflikt zaczął się rozszerzać. Ugrupowanie Houthi, które rządzi częścią Jemenu i jest sprzymierzone z Teheranem, rozpoczęło w lipcu tego roku blokadę morską Arabii Saudyjskiej na Morzu Czerwonym. Decyzja ta zapadła po tym Rijad zbombardował jemeńskie lotnisko by uniemożliwić powrót delegacji Houthi z pogrzebu Ajatollaha Chamenejego. Rozpoczęły się też wzajemne ataki lotnicze bo obu stronach granicy, w których ucierpieli cywile. Irańskie rakiety spadły również na Jordanię, a drony nieznanego pochodzenia [na statki](https://www.bbc.co.uk/news/articles/c39ez3klwmro) w egipskim porcie Damietta. W tym ostatnim przypadku podejrzenia padają na Iran, choć ten zaprzecza jakoby brał udział. Houthi zaatakowali też saudyjskie tankowce niedaleko portu Janbu.
 
 <div class="map-container">
-  <iframe 
+  <iframe
     src="https://www.google.com/maps/d/embed?mid=11ejjMIjvqhp3iY9g9kvxA2Ut7uBjbS4&hl=en&ehbc=2E312F"
-    loading="lazy"
     allowfullscreen>
   </iframe>
 </div>
