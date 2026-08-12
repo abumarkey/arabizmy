@@ -23,10 +23,7 @@ Tymczasem sama Syria pozostaje podzielona. Pod rządami Ahmada al-Szary faktyczn
 Brakiem zaufania wykazują się również mniejszości społeczne, w tym Druzowie i Alewici. Klan al-Assadów, który rządził krajem brutalną ręka przez blisko 50 lat, należał do tej drugiej grupy. Choć siły niegdysiejszych dzihadystów Ahmeda Al-Szary prezentują się teraz jako siła umiarkowana, po 2024 doszło w kraju do wybuchów masowej przemocy skierowanych w dużej mierze przeciw grupom takim jak Alewici czy Chrześcijanie, których kojarzy się ze wsparciem wobec dyktatury.
 
 <div class="map-container">
-  <iframe
-    src="https://www.google.com/maps/d/embed?mid=1SLV5I5bV5Mj5hyuPwwHyFruC2pp6XsA&hl=en&ehbc=2E312F"
-    allowfullscreen>
-  </iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1SLV5I5bV5Mj5hyuPwwHyFruC2pp6XsA&ehbc=2E312F"></iframe>
 </div>
 
 Rząd zapowiedział działania mające zwalczyć przemoc na tle religijnym. Rozpoczęły się też [procesy sądowe](https://www.nytimes.com/2025/11/29/world/middleeast/syria-civil-war-assad.html?unlocked_article_code=1.41A.3uqW.Q5N7X8nRyQ5r&smid=url-share) części osób związanych z przemocą przeciw mniejszościom. Nieufność jednak pozostaje, również wśród [Druzów](https://www.nytimes.com/2026/08/11/world/middleeast/syria-sweida-province-druse-government.html?rsrc=flt&unlocked_article_code=1.41A.uaKu.YZvzOzQPMdDh&smid=url-share), którzy zamieszkują południe kraju. Ścierają się tu interesy Damaszku, mniejszości oraz Izraela, który wspiera tą społeczność wojskowo. Ci zamieszkują bowiem oba kraje i prowincja Suweida to prawdopodobnie jedyne miejsce w całej Syrii, gdzie można kupić pamiątkową flagę państwa żydowskiego. 
