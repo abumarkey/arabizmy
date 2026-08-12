@@ -7,8 +7,7 @@ title: Bahrajn - paszport jako broń
 
 Brzmi groźnie, ale w przynajmniej niektórych przypadkach oznacza publikację nagrań irańskich ataków na Bahrajnu. Od początku konfliktu Królestwo [aresztowało](https://abumarkey.github.io/arabizmy/wojna-iran-bezpieczentwo/) ok. 10 osób, które udostępniły w sieci nagrania irańskich rakiet, dronów lub zniszczeń, których dokonały. Czy faktycznie jest to wychwalanie agresji wrogiego państwa? 
 
-<div style="position: relative; padding-top: 177.78%;"><iframe title="Iranian rocket attack on Bahrain" width="100%" height="100%" src="https://peertube.cif.su/videos/embed/c5mExdK763eyartdD296US?title=0&amp;warningTitle=0" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
-
+<div class="youtube-short"> <iframe src="https://www.youtube.com/embed/29AC653yLAg" title="YouTube Short" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe> </div>
 _irańska rakieta nad Bahrajnem zestrzelona przez obronę powietrzną, 28.02.26. Materiały własne_ 
 
 ## Kij, a marchewka?
