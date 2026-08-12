@@ -24,7 +24,7 @@ Brakiem zaufania wykazują się również mniejszości społeczne, w tym Druzowi
 
 <div class="map-container">
   <iframe
-    src="https://www.google.com/maps/d/embed?mid=11ejjMIjvqhp3iY9g9kvxA2Ut7uBjbS4&hl=en&ehbc=2E312F"
+    src="https://www.google.com/maps/d/embed?mid=1SLV5I5bV5Mj5hyuPwwHyFruC2pp6XsA&hl=en&ehbc=2E312F"
     allowfullscreen>
   </iframe>
 </div>
