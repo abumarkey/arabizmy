@@ -91,6 +91,9 @@ img {
   border: 0;
 }
 
+.youtube-short { width: 100%; max-width: 400px; margin: 2rem auto; aspect-ratio: 9 / 16; } 
+.youtube-short iframe { width: 100%; height: 100%; display: block; border: 0; }
+
 .highlight-box {
   background-color: var(--highlight-bg);
   color: var(--highlight-text);
