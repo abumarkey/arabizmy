@@ -10,10 +10,10 @@ Do irańskiego nalotu [doszło](https://www.nytimes.com/2026/08/15/world/middlee
 Ajatollahowie przyznali wcześniej, że w akcji zginął jeden pilot, a los reszty jest nieznany. Teraz Republika Islamska twierdzi, że przeżyły załogi obu maszyn -  w sumie czworo wojskowych - i są przetrzymywane na terenie Kataru bez możliwości kontaktu ze światem. Doha odpowiada, że po zestrzeleniu obiektów kontaktowała się z władzami Iranu by przekazać zwłoki odnalezionego pilota, jednak Teheran pozostawił sąsiada bez odpowiedzi. 
 
 <div class="map-container">
-<iframe src="(https://www.google.com/maps/d/embed?mid=1Wd1Jm4CkKZVC9jsGuEnRJyXLI40kuhc&hl=en&ehbc=2E312F)"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1Wd1Jm4CkKZVC9jsGuEnRJyXLI40kuhc&hl=en&ehbc=2E312F"></iframe>
 </div>
 
-Niejasne pozostaje z jakiego kapelusza Iran wyciągnał oskarżenia względem Katarczyków. Doha, wspólnie z Omanem i Pakistanem, pracują nad mediacją między Teheranem a Waszyngtonem. Celem jest przywrócenie do życia protokołu ustaleń między USA i Republiką Islamską, którą strony podpisały w czerwcu a następnie zerwały. Według niedawnych [przekazów medialnych](https://www.theguardian.com/world/2026/aug/04/us-qatar-progress-iran-ceasefire-hormuz-strait), rozmowy toczą się w dobrym kierunku. 
+Niejasne pozostaje z jakiego kapelusza Iran wyciągnał oskarżenia względem [Katarczyków](https://abumarkey.github.io/arabizmy/emir-katar/). Doha, wspólnie z Omanem i Pakistanem, pracują nad mediacją między Teheranem a Waszyngtonem. Celem jest przywrócenie do życia protokołu ustaleń między USA i Republiką Islamską, którą strony podpisały w czerwcu a następnie zerwały. Według niedawnych [przekazów medialnych](https://www.theguardian.com/world/2026/aug/04/us-qatar-progress-iran-ceasefire-hormuz-strait), rozmowy toczą się w dobrym kierunku. 
 
 ## Niesforny Ormuz
 
