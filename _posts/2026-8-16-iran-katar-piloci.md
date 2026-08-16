@@ -5,7 +5,7 @@ title: Irańscy piloci Schrödingera w Katarze
 
 Teheran oskarża Dohę o nielegalne przetrzymywanie pilotów, których myśliwce emirat zestrzelił na początku marca. Katar zaprzecza, zapewniając, że od początku był w kontakcie z władzami Republiki Islamskiej. 
 
-Do irańskiego nalotu [doszło](https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html?rsrc=flt&unlocked_article_code=1.51A.dFRW.pclhwF0zEKi0&smid=url-share) 2. marca, a celem operacji był atak na amerykańską bazę wojskową al-Udeid, która znajduję się niedaleko katarskiej stolicy. Obrona przeciwpowietrzna kraju zestrzeliła dwa myśliwce Su-24 po naruszeniu przez nich przestrzeni powietrznej i nieudanej próbie kontaktu. Lokalnym służbom porządkowym udało się odzyskać szczątki jednego z pilotów. 
+Do irańskiego nalotu [doszło](https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html?rsrc=flt&unlocked_article_code=1.51A.dFRW.pclhwF0zEKi0&smid=url-share) 2. marca, a celem operacji był atak na amerykańską bazę wojskową al-Udeid, która znajduje się niedaleko katarskiej stolicy. Obrona przeciwpowietrzna kraju zestrzeliła dwa myśliwce Su-24 po naruszeniu przez nie przestrzeni powietrznej i nieudanej próbie kontaktu. Lokalnym służbom porządkowym udało się odzyskać szczątki jednego z pilotów. 
 
 Ajatollahowie przyznali wcześniej, że w akcji zginął jeden pilot, a los reszty jest nieznany. Teraz Republika Islamska twierdzi, że przeżyły załogi obu maszyn -  w sumie czworo wojskowych - i są przetrzymywane na terenie Kataru bez możliwości kontaktu ze światem. Doha odpowiada, że po zestrzeleniu obiektów kontaktowała się z władzami Iranu by przekazać zwłoki odnalezionego pilota, jednak Teheran pozostawił sąsiada bez odpowiedzi. 
 
